@@ -1,5 +1,17 @@
 #!/bin/sh
 
+# This script is to be run in a fitlet2 gateway that is connected to a LoRa radio but not a cell link (e.g. at the FCR Weir)
+# Note **run this script only if the fitlet serves as an EdgeVPN (evio) switch**
+# If not using evio, run restart_lora_at_noevio_gateway.sh
+# It configures the LoRa tnc0 interface, applies traffic control, and configures IP layer to route through the gateway it connects to
+# It should run in crontab at boot time, and periodically (e.g. @hourly)
+
+# this assumes the evio docker container is already running
+# docker run -d -v /home/$USER/.evio/config.json:/etc/opt/evio/config.json -v /var/log/evio/:/var/log/evio/ --restart always --privileged --name evio-node --network host edgevpnio/evio-node:latest
+
+# this takes the evio network address and netmask *of the lora_pendant node* as the only argument
+# e.g. restart_lora_at_evio_switch.sh 10.10.100.8/24
+
 # bring lora interface down and up
 /usr/bin/killall tncattach
 /usr/local/sbin/tncattach /dev/ttyUSB0 115200 -d -e -n -m 400 
@@ -12,3 +24,4 @@
 
 # enable IP forwarding
 /usr/sbin/sysctl -w net.ipv4.ip_forward=1
+/usr/sbin/iptables -t nat -A POSTROUTING -s $1 -j MASQUERADE

@@ -14,13 +14,13 @@
 # Here argument $1 should be a private address/netmask that is only visible between the two LoRa endpoints (i.e. this device's tnc0 address)
 # Argument $2 should be also a private address/netmask that is only visible between the two LoRa endpoints (i.e. the other device's tnc0 address)
 # The example below assumes the fitlet with LoRa only is 10.99.0.2 and the fitlet with both LoRa and cell is 10.99.0.1; the netmask is /24:
-# restart_lora_and_route_gw.sh 10.99.0.2/24 10.99.0.1
+# restart_lora_at_pendant.sh 10.99.0.2/24 10.99.0.1
 #
 # 2) If this fitlet has an EdgeVPN address
 # Here argument $1 should be the EdgeVPN IP/netmask assigned to the local tnc0 LoRa interface
 # Argumet $2 should be the EdgeVPN IP/netmask assigned to the other device's appCIBR6 bridge
 # The example below assumes the fitlet with LoRa only is 10.10.100.8 and the fitlet with both LoRa and cell is 10.10.100.7; the netmask is /24:
-# restart_lora_and_route_gw.sh 10.10.100.8/24 10.10.100.7
+# restart_lora_at_pendant.sh 10.10.100.8/24 10.10.100.7
 
 /usr/bin/killall tncattach
 /usr/local/sbin/tncattach /dev/ttyUSB0 115200 -d -e -n -m 400 -i $1
