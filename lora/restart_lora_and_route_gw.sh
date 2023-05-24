@@ -3,6 +3,8 @@
 # this script is to be run in a gateway that is:
 # 1) connected to a LoRa radio but not a cell link (e.g. at the FCR Weir), -and-
 # 2) not using an EdgeVPN address
+# Here argument $1 should not be an EdgeVPN address, but rather a private address between LoRa endpoints
+# The example below assumes the fitlet with LoRa only is 10.99.0.2 and the fitlet with both LoRa and cell is 10.99.0.1 
 
 # this takes two arguments, 
 # arg1 is the IP/netmask of the local tnc0 LoRa interface
