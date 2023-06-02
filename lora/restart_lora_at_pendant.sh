@@ -23,7 +23,10 @@
 # restart_lora_at_pendant.sh 10.10.100.8/24 10.10.100.7
 
 /usr/bin/killall tncattach
-/usr/local/sbin/tncattach /dev/ttyUSB0 115200 -d -e -n -m 400 -i $1
+
+sleep 5
+
+/usr/local/bin/tncattach /dev/ttyUSB0 115200 -d -e -n -m 400 -i $1
 /usr/sbin/tc qdisc add dev tnc0 root tbf rate 20kbit burst 32kbit latency 400ms
 
 /usr/sbin/ip route delete default

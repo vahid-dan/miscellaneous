@@ -11,7 +11,10 @@
 
 
 /usr/bin/killall tncattach
-/usr/local/sbin/tncattach /dev/ttyUSB0 115200 -d -e -n -m 400 -i $1
+
+sleep 5
+
+/usr/local/bin/tncattach /dev/ttyUSB0 115200 -d -e -n -m 400 -i $1
 /usr/sbin/tc qdisc add dev tnc0 root tbf rate 20kbit burst 32kbit latency 400ms
 
 echo 1 > /proc/sys/net/ipv4/ip_forward

@@ -14,7 +14,10 @@
 
 # bring lora interface down and up
 /usr/bin/killall tncattach
-/usr/local/sbin/tncattach /dev/ttyUSB0 115200 -d -e -n -m 400 
+
+sleep 5
+
+/usr/local/bin/tncattach /dev/ttyUSB0 115200 -d -e -n -m 400
 
 # attach to evio bridge and throttle rate
 /usr/bin/docker exec -it evio-node ovs-vsctl add-port appCIBR6 tnc0
