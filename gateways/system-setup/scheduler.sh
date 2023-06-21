@@ -16,6 +16,8 @@ general_gateway_power_mode=$(yq e '.general.gateway_power_mode' $config_file)
 scheduler_shutdown_delay_after_reboot=$(yq e '.scheduler.shutdown_delay_after_reboot' $config_file)
 scheduler_shutdown_time=$(yq e '.scheduler.shutdown_time' $config_file)
 
+# Body of the script
+
 # Check the maintenance mode
 if [ "$general_gateway_maintenance_mode" = "true" ]; then
     echo "The system is in maintenance mode. Shutdown is not allowed."

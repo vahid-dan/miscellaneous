@@ -27,6 +27,6 @@ reverse_ssh_log_file_path=$general_data_dir/$general_git_logs_branch/$reverse_ss
 
 timestamp=$(date +"%D %T %Z")
 
+# Body of the script
 echo -e "\n############################ $general_gateway_name - $timestamp ############################\n" 2>&1 | tee -a $reverse_ssh_log_file_path
-
 AUTOSSH_DEBUG=1 AUTOSSH_LOGFILE=$reverse_ssh_log_file_path autossh -o "ServerAliveInterval $reverse_ssh_ServerAliveInterval" -o "ServerAliveCountMax $reverse_ssh_ServerAliveCountMax" -M $reverse_ssh_base_port -R $reverse_ssh_local_port:$reverse_ssh_localhost:$reverse_ssh_remote_port -fNT $reverse_ssh_user@$reverse_ssh_server

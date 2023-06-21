@@ -49,6 +49,3 @@ reverse_ssh:
   user: ubuntu
   ServerAliveInterval: 60
   ServerAliveCountMax: 3
-
-#lora
-#evio

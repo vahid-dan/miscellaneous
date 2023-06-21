@@ -22,6 +22,8 @@ startup_notifier_git_repo=$(yq e '.startup_notifier.git_repo' $config_file)
 general_data_dir_path=$general_data_dir/$general_git_data_branch
 general_logs_dir_path=$general_data_dir/$general_git_logs_branch
 
+# Body of the script
+
 # Change hostname
 sudo hostname $general_gateway_name
 
