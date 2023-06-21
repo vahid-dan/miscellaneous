@@ -19,7 +19,7 @@ startup_notifier_log_file=$(yq e '.startup_notifier.log_file' $config_file)
 startup_notifier_log_file_path=$general_data_dir/$general_git_logs_branch/$startup_notifier_log_file
 
 # Body of the script
-cd $general_apps_dir/$startup_notifier_local_repo_dir
+cd $general_apps_dir/$startup_notifier_local_repo_dir/$general_gateway_name
 date > $general_gateway_name 2>&1 | tee -a $startup_notifier_log_file_path
 git add $general_gateway_name 2>&1 | tee -a $startup_notifier_log_file_path
 git commit -m "$(date)" 2>&1 | tee -a $startup_notifier_log_file_path
