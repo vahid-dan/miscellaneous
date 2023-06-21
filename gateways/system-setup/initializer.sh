@@ -53,7 +53,7 @@ else
 fi
 
 # Clone the latest commit from the startup branch if the directory does not exist
-if [ ! -d "$$general_apps_dir/$startup_notifier_local_repo_dir" ]; then
+if [ ! -d "$general_apps_dir/$startup_notifier_local_repo_dir" ]; then
   echo "Cloning startup notifier branch"
   git clone --depth 1 --branch $startup_notifier_git_branch $startup_notifier_git_repo $general_apps_dir/$startup_notifier_local_repo_dir
 else
