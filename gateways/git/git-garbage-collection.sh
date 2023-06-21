@@ -5,26 +5,34 @@
 # Runs Git Garbage Collector
 # Usage: Run at least once every few weeks, recommended after running Git Push script for quicker runs.
 
-__location=fcre-catwalk
-__data_directory=/data
-__logfile=$__data_directory/$HOSTNAME-logs/git-gc.log
-__git_data_dir=$__data_directory/$__location-data
-__git_log_dir=$__data_directory/$HOSTNAME-logs
-__git_executable="/usr/bin/git"
-__timestamp=$(date +"%D %T %Z")
+set -ex
 
-echo -e "\n############################ $HOSTNAME - $__timestamp ############################\n" 2>&1 | tee -a $__log_file
+config_file=/home/ubuntu/config.yml
 
-echo -e "Disk Usage Before Git Garbage Collection:" 2>&1 | tee -a $__logfile
-df -h | grep $__data_directory 2>&1 | tee -a $__logfile
+# Parse the config file using yq
+general_gateway_name=$(yq e '.general.gateway_name' $config_file)
+general_data_dir=$(yq e '.general.data_dir' $config_file)
+general_git_data_branch=$(yq e '.general.git_data_branch' $config_file)
+general_git_logs_branch=$(yq e '.general.git_logs_branch' $config_file)
+git_garbage_collection_log_file=$(yq e '.git_garbage_collection.log_file' $config_file)
+git_garbage_collection_log_file_path=$general_data_dir/$general_git_logs_branch/$git_garbage_collection_log_file
 
-cd $__git_data_dir
-echo -e "Working on: $(pwd)" 2>&1 | tee -a $__logfile
-$__git_executable gc --prune 2>&1 | tee -a $__logfile
+timestamp=$(date +"%D %T %Z")
 
-cd $__git_log_dir
-echo -e "Working on: $(pwd)" 2>&1 | tee -a $__logfile
-$__git_executable gc --prune 2>&1 | tee -a $__logfile
+# Body of the script
 
-echo -e "Disk Usage After Git Garbage Collection:" 2>&1 | tee -a $__logfile
-df -h | grep $__data_directory 2>&1 | tee -a $__logfile
+echo -e "\n############################ $general_gateway_name - $timestamp ############################\n" 2>&1 | tee -a $git_garbage_collection_log_file_path
+
+echo -e "Disk Usage Before Git Garbage Collection:" 2>&1 | tee -a $git_garbage_collection_log_file_path
+df -h | grep $general_data_dir 2>&1 | tee -a $git_garbage_collection_log_file_path
+
+cd $general_data_dir/$general_git_data_branch
+echo -e "Working on: $(pwd)" 2>&1 | tee -a $git_garbage_collection_log_file_path
+git gc --prune 2>&1 | tee -a $git_garbage_collection_log_file_path
+
+cd $general_data_dir/$general_git_logs_branch
+echo -e "Working on: $(pwd)" 2>&1 | tee -a $git_garbage_collection_log_file_path
+git gc --prune 2>&1 | tee -a $git_garbage_collection_log_file_path
+
+echo -e "Disk Usage After Git Garbage Collection:" 2>&1 | tee -a git_garbage_collection_log_file_path
+df -h | grep $general_data_dir 2>&1 | tee -a $git_garbage_collection_log_file_path

@@ -5,17 +5,22 @@
 # Pushes the current system date and time to the default branch (main/master) of the Git repo as a notification of the gateway being awake
 # Usage: Run after reboot.
 
-__data_directory=/data
-__applications_directory=$HOME/applications
-__log_file=$__data_directory/$HOSTNAME-logs/startup-notifier.log
-__git_directory=$__applications_directory/startup/FCRE-data
-__git_repo=github.com:FLARE-forecast/FCRE-data.git
+set -ex
 
-[ ! -d $__git_directory ] && git clone --depth=1 git@$__git_repo $__git_directory
+config_file=/home/ubuntu/config.yml
 
-cd $__git_directory
-date > $HOSTNAME 2>&1 | tee -a $__log_file
-git add $HOSTNAME 2>&1 | tee -a $__log_file
-git commit -m "$(date)" 2>&1 | tee -a $__log_file
-git pull --rebase 2>&1 | tee -a $__log_file
-git push 2>&1 | tee -a $__log_file
+# Parse the config file using yq
+general_gateway_name=$(yq e '.general.gateway_name' $config_file)
+general_data_dir=$(yq e '.general.data_dir' $config_file)
+general_git_logs_branch=$(yq e '.general.git_logs_branch' $config_file)
+startup_notifier_local_repo_dir=$(yq e '.startup_notifier.local_repo_dir' $config_file)
+startup_notifier_log_file=$(yq e '.startup_notifier.log_file' $config_file)
+startup_notifier_log_file_path=$general_data_dir/$general_git_logs_branch/$startup_notifier_log_file
+
+# Body of the script
+cd $startup_notifier_local_repo_dir
+date > $general_gateway_name 2>&1 | tee -a $startup_notifier_log_file_path
+git add $general_gateway_name 2>&1 | tee -a $startup_notifier_log_file_path
+git commit -m "$(date)" 2>&1 | tee -a $startup_notifier_log_file_path
+git pull --rebase 2>&1 | tee -a $startup_notifier_log_file_path
+git push 2>&1 | tee -a $startup_notifier_log_file_path

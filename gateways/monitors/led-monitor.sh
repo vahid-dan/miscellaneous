@@ -5,6 +5,8 @@
 # Turns off both LED1 and LED2 on the gateways
 # Usage: Run after reboot.
 
+set -ex
+
 [ ! -d "/sys/class/gpio/gpio435" ] && echo 435 > /sys/class/gpio/export
 [ ! -d "/sys/class/gpio/gpio436" ] && echo 436 > /sys/class/gpio/export
 [ ! -d "/sys/class/gpio/gpio437" ] && echo 437 > /sys/class/gpio/export
