@@ -44,9 +44,9 @@ else
   echo "Data directory already exists"
 fi
 
-# Clone the latest commit from the log branch if the directory does not exist
+# Clone the latest commit from the logs branch if the directory does not exist
 if [ ! -d "$general_logs_dir_path" ]; then
-  echo "Cloning log branch"
+  echo "Cloning logs branch"
   git clone --depth 1 --branch $general_git_logs_branch $general_git_repo $general_logs_dir_path
 else
   echo "Logs directory already exists"
