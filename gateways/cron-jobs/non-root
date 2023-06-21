@@ -16,5 +16,8 @@
 # Sends awake ping signals to healthchecks.io
 * * * * * /home/ubuntu/miscellaneous/gateways/system-monitors/health-checks-io.sh
 
+# Captures and logs the status of the system
+19 */6 * * * /home/ubuntu/miscellaneous/gateways/system-monitors/status-monitor.sh
+
 # Pushes the new additions to the remote repo and applies Git garbage collection afterwards
 20 */6 * * * /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh && /home/ubuntu/miscellaneous/gateways/git-maintenance/git-garbage-collector.sh
