@@ -7,6 +7,9 @@
 
 set -ex
 
+# Note: GPIO pins have been updated in the newer versions of Fitlet2:
+# $ ls /sys/class/gpio
+
 [ ! -d "/sys/class/gpio/gpio435" ] && echo 435 > /sys/class/gpio/export
 [ ! -d "/sys/class/gpio/gpio436" ] && echo 436 > /sys/class/gpio/export
 [ ! -d "/sys/class/gpio/gpio437" ] && echo 437 > /sys/class/gpio/export

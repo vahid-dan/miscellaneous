@@ -7,6 +7,9 @@
 
 set -ex
 
+# Note: GPIO pins have been updated in the newer versions of Fitlet2:
+# $ ls /sys/class/gpio
+
 # Turn off the LED1 on the gateways
 echo 435 > /sys/class/gpio/export
 echo 0 > /sys/class/gpio/gpio435/value

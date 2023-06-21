@@ -1,0 +1,7 @@
+@reboot ~/miscellaneous/gateways/system-setup/scheduler.sh
+@reboot sleep 60 && ~/miscellaneous/gateways/remote-access/reverse-ssh.sh
+@reboot sleep 60 && ~/miscellaneous/gateways/system-monitors/startup-notifier.sh
+@reboot sleep 60 && ~/miscellaneous/gateways/system-monitors/status-monitor.sh
+@reboot sleep 120 && ~/miscellaneous/gateways/git-maintenance/git-push.sh && ~/miscellaneous/gateways/git-maintenance/git-garbage-collector.sh
+* * * * * ~/miscellaneous/gateways/system-monitors/health-checks-io.sh
+20 */6 * * * ~/miscellaneous/gateways/git-maintenance/git-push.sh && ~/miscellaneous/gateways/git-maintenance/git-garbage-collector.sh
