@@ -2,7 +2,7 @@ general:
   gateway_name: diana
   gateway_location: ccre-test
   gateway_power_mode: ac # "ac" or "battery"
-  gateway_maintenance_mode: false # true or false
+  gateway_maintenance_mode: true # true or false
   data_dir: /data
   app_dir: /usr/local/bin
   datalogger_data_dir: datalogger-data

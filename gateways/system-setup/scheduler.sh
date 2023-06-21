@@ -7,7 +7,7 @@
 
 set -ex
 
-config_file=~/miscellaneous/gateways/config.yml
+config_file=/home/ubuntu/miscellaneous/gateways/config.yml
 
 # Parse the config file using yq
 
