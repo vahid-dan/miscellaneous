@@ -25,7 +25,7 @@ reverse_ssh_ServerAliveInterval=$(yq e '.reverse_ssh.ServerAliveInterval' $confi
 reverse_ssh_ServerAliveCountMax=$(yq e '.reverse_ssh.ServerAliveCountMax' $config_file)
 reverse_ssh_log_file_path=$general_data_dir/$general_git_logs_branch/$reverse_ssh_log_file
 
-timestamp=$(date +"%D %T %Z")
+timestamp=$(date +"%D %T %Z %z")
 
 # Body of the script
 echo -e "\n############################ $general_gateway_name - $timestamp ############################\n" 2>&1 | tee -a $reverse_ssh_log_file_path

@@ -16,7 +16,7 @@ general_git_logs_branch=$(yq e '.general.git_logs_branch' $config_file)
 status_monitor_log_file=$(yq e '.status_monitor.log_file' $config_file)
 status_monitor_log_file_path=$general_data_dir/$general_git_logs_branch/$status_monitor_log_file
 
-timestamp=$(date +"%D %T %Z")
+timestamp=$(date +"%D %T %Z %z")
 
 # Body of the script
 echo -e "\n############################ $general_gateway_name - $timestamp ############################\n" 2>&1 | tee -a $status_monitor_log_file_path

@@ -23,8 +23,8 @@ timestamp=$(date +"%D %T %Z %z")
 
 # Body of the script
 
-echo -e "\n############## $general_gateway_name - $timestamp ##############\n" 2>&1 | tee -a $ping_monitor_log_file_full_path
+echo -e "\n############################ $general_gateway_name - $timestamp ############################\n" 2>&1 | tee -a $ping_monitor_log_file_full_path
 ping 8.8.8.8 -i 1 -c 3 | xargs -n1 -i bash -c 'echo `date +"%Y-%m-%d %H:%M:%S"`" {}"' 2>&1 | tee -a $ping_monitor_log_file_full_path
 
-echo -e "\n############## $general_gateway_name - $timestamp ##############\n" 2>&1 | tee -a $ping_monitor_log_file_stat_path
+echo -e "\n############################ $general_gateway_name - $timestamp ############################\n" 2>&1 | tee -a $ping_monitor_log_file_stat_path
 tail -n 2 $ping_monitor_log_file_full_path 2>&1 | tee -a $ping_monitor_log_file_stat_path

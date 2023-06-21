@@ -17,7 +17,7 @@ general_git_logs_branch=$(yq e '.general.git_logs_branch' $config_file)
 git_garbage_collector_log_file=$(yq e '.git_garbage_collector.log_file' $config_file)
 git_garbage_collector_log_file_path=$general_data_dir/$general_git_logs_branch/$git_garbage_collector_log_file
 
-timestamp=$(date +"%D %T %Z")
+timestamp=$(date +"%D %T %Z %z")
 
 # Body of the script
 
