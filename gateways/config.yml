@@ -27,14 +27,11 @@ ping_monitor:
   log_file_full: ping-monitor-full.log
   log_file_stat: ping-monitor-stat.log
 
-reverse_ssh:
-  log_file: reverse-ssh.log
-
 git_push:
   log_file: git-push.log
 
-git_garbage_collection:
-  log_file: git-garbage-collection.log
+git_garbage_collector:
+  log_file: git-garbage-collector.log
 
 health_checks_io:
   ping_url: https://hc-ping.com/8c074ee7-de97-4c50-9dfc-987386c0d886
