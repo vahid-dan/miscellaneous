@@ -34,5 +34,5 @@ cd $general_data_dir/$general_git_logs_branch
 echo -e "Working on: $(pwd)" 2>&1 | tee -a $git_garbage_collector_log_file_path
 git gc --prune 2>&1 | tee -a $git_garbage_collector_log_file_path
 
-echo -e "Disk Usage After Git Garbage Collector:" 2>&1 | tee -a git_garbage_collector_log_file_path
+echo -e "Disk Usage After Git Garbage Collector:" 2>&1 | tee -a $git_garbage_collector_log_file_path
 df -h | grep $general_data_dir 2>&1 | tee -a $git_garbage_collector_log_file_path
