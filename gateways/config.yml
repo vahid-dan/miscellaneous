@@ -44,5 +44,5 @@ reverse_ssh:
   localhost: localhost
   server: 149.165.159.29
   user: ubuntu
-  ServerAliveInterval: 60
+  ServerAliveInterval: 30
   ServerAliveCountMax: 3
