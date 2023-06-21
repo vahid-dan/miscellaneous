@@ -38,8 +38,8 @@ health_checks_io:
 
 reverse_ssh:
   log_file: reverse-ssh.log
-  local_port: 60005
-  base_port: 61000
+  local_port: 61005
+  base_port: 61100
   remote_port: 22
   localhost: localhost
   server: 149.165.159.29
