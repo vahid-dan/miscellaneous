@@ -4,7 +4,7 @@ general:
   gateway_power_mode: ac # "ac" or "battery"
   gateway_maintenance_mode: true # true or false
   data_dir: /data
-  app_dir: /usr/local/bin
+  apps_dir: /home/ubuntu/miscellaneous
   datalogger_data_dir: datalogger-data
   git_repo: git@github.com:vahid-dan/CCRE-data.git
   git_data_branch: ccre-test-data

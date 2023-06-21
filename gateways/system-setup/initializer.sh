@@ -12,6 +12,7 @@ config_file=/home/ubuntu/miscellaneous/gateways/config.yml
 # Parse the config file using yq
 general_gateway_name=$(yq e '.general.gateway_name' $config_file)
 general_data_dir=$(yq e '.general.data_dir' $config_file)
+general_apps_dir=$(yq e '.general.apps_dir' $config_file)
 general_git_repo=$(yq e '.general.git_repo' $config_file)
 general_git_data_branch=$(yq e '.general.git_data_branch' $config_file)
 general_git_logs_branch=$(yq e '.general.git_logs_branch' $config_file)
@@ -52,9 +53,9 @@ else
 fi
 
 # Clone the latest commit from the startup branch if the directory does not exist
-if [ ! -d "$startup_notifier_local_repo_dir" ]; then
+if [ ! -d "$$general_apps_dir/$startup_notifier_local_repo_dir" ]; then
   echo "Cloning startup notifier branch"
-  git clone --depth 1 --branch $startup_notifier_git_branch $startup_notifier_git_repo $startup_notifier_local_repo_dir
+  git clone --depth 1 --branch $startup_notifier_git_branch $startup_notifier_git_repo $general_apps_dir/$startup_notifier_local_repo_dir
 else
   echo "Startup notifier directory already exists"
 fi
