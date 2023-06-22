@@ -33,7 +33,8 @@ if [ ! -L $general_data_dir/$general_datalogger_data_dir ]; then
   echo "Creating datalogger directory symbolic link"
   ln -s $general_data_dir/$general_git_data_branch $general_data_dir/$general_datalogger_data_dir
 else
-  echo "Datalogger directory already exists."
+  echo "Datalogger directory already exists. Recreating it ..."
+  ln -sf $general_data_dir/$general_git_data_branch $general_data_dir/$general_datalogger_data_dir
 fi
 
 # Clone the latest commit from the data branch if the directory does not exist
