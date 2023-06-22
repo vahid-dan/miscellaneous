@@ -7,7 +7,7 @@
 
 set -ex
 
-config_file=/home/ubuntu/miscellaneous/gateways/config.yml
+config_file=/home/ubuntu/miscellaneous/gateways/config-files/config.yml
 
 # Parse the config file using yq
 health_checks_io_ping_url=$(yq e '.health_checks_io.ping_url' $config_file)
