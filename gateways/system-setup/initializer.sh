@@ -26,6 +26,8 @@ general_logs_dir_path=$general_data_dir/$general_git_logs_branch
 # Body of the script
 
 # Change hostname
+echo "$general_gateway_name" | sudo tee /etc/hostname
+sudo sed -i "s/old_hostname/$general_gateway_name/g" /etc/hosts
 sudo hostname $general_gateway_name
 
 # Make sure autossh is not running with old configurations
