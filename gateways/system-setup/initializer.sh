@@ -28,6 +28,9 @@ general_logs_dir_path=$general_data_dir/$general_git_logs_branch
 # Change hostname
 sudo hostname $general_gateway_name
 
+# Make sure autossh is not running with old configurations
+sudo pkill -f autossh
+
 # Setup datalogger directory symbolic link
 if [ ! -L $general_data_dir/$general_datalogger_data_dir ]; then
   echo "Creating datalogger directory symbolic link"
