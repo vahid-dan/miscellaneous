@@ -36,10 +36,10 @@ sudo pkill -f autossh
 # Setup datalogger directory symbolic link
 if [ ! -L $general_data_dir/$general_datalogger_data_dir ]; then
   echo "Creating datalogger directory symbolic link"
-  ln -s $general_data_dir/$general_git_data_branch $general_data_dir/$general_datalogger_data_dir
+  ln -s $general_git_data_branch $general_data_dir/$general_datalogger_data_dir
 else
   echo "Datalogger directory already exists. Recreating it ..."
-  ln -sfn $general_data_dir/$general_git_data_branch $general_data_dir/$general_datalogger_data_dir
+  ln -sfn $general_git_data_branch $general_data_dir/$general_datalogger_data_dir
 fi
 
 # Clone the latest commit from the data branch if the directory does not exist
