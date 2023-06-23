@@ -42,6 +42,8 @@ else
   ln -sfn $general_git_data_branch $general_data_dir/$general_datalogger_data_dir
 fi
 git config --global --add safe.directory $general_data_dir/$general_git_data_branch
+sudo chown -R ftpuser:ftpuser $general_data_dir/$general_datalogger_data_dir
+sudo chown -R ftpuser:ftpuser $general_data_dir/$general_git_data_branch
 
 # Clone the latest commit from the data branch if the directory does not exist
 if [ ! -d "$general_data_dir_path" ]; then
