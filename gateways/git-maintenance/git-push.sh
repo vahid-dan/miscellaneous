@@ -36,8 +36,8 @@ git add . 2>&1 | tee -a $git_push_log_file_path
 git commit -m "$timestamp: Logs" 2>&1 | tee -a $git_push_log_file_path
 #git pull --no-edit --force 2>&1 | tee -a $git_push_log_file_path
 git push 2>&1 | tee -a $git_push_log_file_path
-git add . 2>&1 | tee -a $git_push_log_file_path
-git commit -m "$timestamp: Logs" 2>&1 | tee -a $git_push_log_file_path
-git push 2>&1 | tee -a $git_push_log_file_path
+#git add . 2>&1 | tee -a $git_push_log_file_path
+#git commit -m "$timestamp: Logs" 2>&1 | tee -a $git_push_log_file_path
+#git push 2>&1 | tee -a $git_push_log_file_path
 
 echo -e "\nCompleted at $(date +"%D %T %Z")\n" 2>&1 | tee -a $git_push_log_file_path

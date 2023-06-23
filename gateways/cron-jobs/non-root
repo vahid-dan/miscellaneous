@@ -11,7 +11,7 @@
 @reboot sleep 60 && /home/ubuntu/miscellaneous/gateways/system-monitors/status-monitor.sh
 
 # Pushes the new additions to the remote repo and applies Git garbage collection afterwards
-@reboot sleep 120 && /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh && /home/ubuntu/miscellaneous/gateways/git-maintenance/git-garbage-collector.sh
+@reboot sleep 120 && /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh && /home/ubuntu/miscellaneous/gateways/git-maintenance/git-garbage-collector.sh && /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh
 
 # Sends awake ping signals to healthchecks.io
 * * * * * /home/ubuntu/miscellaneous/gateways/system-monitors/health-checks-io.sh
@@ -20,4 +20,12 @@
 19 */6 * * * /home/ubuntu/miscellaneous/gateways/system-monitors/status-monitor.sh
 
 # Pushes the new additions to the remote repo and applies Git garbage collection afterwards
-20 */6 * * * /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh && /home/ubuntu/miscellaneous/gateways/git-maintenance/git-garbage-collector.sh
+20 */6 * * * /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh && /home/ubuntu/miscellaneous/gateways/git-maintenance/git-garbage-collector.sh && /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh
+
+# Runs Nebula VPN
+@reboot sleep 60 && sudo /usr/local/bin/restart_nebula.sh
+00 08 * * * sudo /usr/local/bin/restart_nebula.sh
+
+# Runs LoRa Radio
+@reboot sudo /usr/local/bin/restart_lora_at_pendant.sh 10.10.101.2/24 10.10.101.1
+@hourly sudo /usr/local/bin/restart_lora_at_pendant.sh 10.10.101.2/24 10.10.101.1
