@@ -22,6 +22,7 @@ startup_notifier_log_file_path=$general_data_dir/$general_git_logs_branch/$start
 cd $general_apps_dir/$startup_notifier_local_repo_dir/$general_gateway_name
 date > $general_gateway_name 2>&1 | tee -a $startup_notifier_log_file_path
 git add $general_gateway_name 2>&1 | tee -a $startup_notifier_log_file_path
-git commit -m "$(date)" 2>&1 | tee -a $startup_notifier_log_file_path
+git commit -m "$(date +"%D %T %Z %z")
+)" 2>&1 | tee -a $startup_notifier_log_file_path
 git pull --rebase 2>&1 | tee -a $startup_notifier_log_file_path
 git push 2>&1 | tee -a $startup_notifier_log_file_path
