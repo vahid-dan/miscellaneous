@@ -34,7 +34,7 @@ git_garbage_collector:
   log_file: git-garbage-collector.log
 
 health_checks_io:
-  ping_url: https://hc-ping.com/63de05f7-b025-4645-8552-b5e0cae48f61
+  ping_url: https://hc-ping.com/c6767e4f-d6ae-4b8f-adb4-141f03283f8c
 
 reverse_ssh:
   log_file: reverse-ssh.log
