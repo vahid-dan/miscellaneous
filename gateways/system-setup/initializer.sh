@@ -20,6 +20,9 @@ general_datalogger_data_dir=$(yq e '.general.datalogger_data_dir' $config_file)
 startup_notifier_local_repo_dir=$(yq e '.startup_notifier.local_repo_dir' $config_file)
 startup_notifier_git_branch=$(yq e '.startup_notifier.git_branch' $config_file)
 startup_notifier_git_repo=$(yq e '.startup_notifier.git_repo' $config_file)
+reverse_ssh_server=$(yq e '.reverse_ssh.server' $config_file)
+reverse_ssh_user=$(yq e '.reverse_ssh.user' $config_file)
+reverse_ssh_remote_port=$(yq e '.reverse_ssh.remote_port' $config_file)
 general_data_dir_path=$general_data_dir/$general_git_data_branch
 general_logs_dir_path=$general_data_dir/$general_git_logs_branch
 
@@ -30,7 +33,8 @@ echo "$general_gateway_name" | sudo tee /etc/hostname
 sudo sed -i "s/old_hostname/$general_gateway_name/g" /etc/hosts
 sudo hostname $general_gateway_name
 
-# Make sure autossh is not running with old configurations
+# Initialize SSH connection and make sure autossh is not running with old configurations
+ssh -p $reverse_ssh_remote_port $reverse_ssh_user@$reverse_ssh_server 'exit'
 sudo pkill -f autossh
 
 # Setup datalogger directory symbolic link
