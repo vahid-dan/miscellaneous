@@ -39,6 +39,8 @@ df -h | grep /dev/sd 2>&1 | tee -a $status_monitor_log_file_path
 echo -e "\n" 2>&1 | tee -a $status_monitor_log_file_path
 #nmcli d wifi list 2>&1 | tee -a $status_monitor_log_file_path
 #echo -e "\n" 2>&1 | tee -a $status_monitor_log_file_path
+tail /var/log/vsftpd.log 2>&1 | tee -a $status_monitor_log_file_path
+echo -e "\n" 2>&1 | tee -a $status_monitor_log_file_path
 /sbin/ip a | grep 'enx' | awk '{print $2}' 2>&1 | tee -a $status_monitor_log_file_path
 echo -e "\n" 2>&1 | tee -a $status_monitor_log_file_path
 /sbin/ip a | grep 'enp1s0' | awk '{print $2}' 2>&1 | tee -a $status_monitor_log_file_path
