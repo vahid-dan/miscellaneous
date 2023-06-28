@@ -58,6 +58,7 @@ else
   git pull
 fi
 sudo chown -R ftpuser:ftpuser $general_data_dir/$general_git_data_branch
+sudo chmod -R g+w $general_data_dir/$general_git_data_branch
 
 # Clone the latest commit from the logs branch if the directory does not exist
 if [ ! -d "$general_logs_dir_path" ]; then
