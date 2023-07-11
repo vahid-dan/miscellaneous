@@ -117,3 +117,23 @@ Everything up-to-date
 
 Logs:
 
+[carina-logs 571266a] 07/11/23 00:20:03 EST -0500: Logs
+ 2 files changed, 29 insertions(+)
+To github.com:FLARE-forecast/miscellaneous.git
+   c40dd96..571266a  carina-logs -> carina-logs
+
+Completed at 07/11/23 00:20:04 EST
+
+
+############################ carina - 07/11/23 06:20:01 EST -0500 ############################
+
+Data:
+
+On branch datalogger-mock-data
+Your branch is up to date with 'origin/datalogger-mock-data'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+
+Logs:
+
