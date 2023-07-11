@@ -1,0 +1,10 @@
+
+############################ carina - 07/10/23 21:31:38 EST -0500 ############################
+
+2023/07/10 21:31:38 autossh[1106]: checking for grace period, tries = 0
+2023/07/10 21:31:38 autossh[1106]: starting ssh (count 1)
+2023/07/10 21:31:38 autossh[1106]: ssh child pid is 1107
+2023/07/10 21:31:38 autossh[1106]: check on child 1107
+2023/07/10 21:31:38 autossh[1106]: clear alarm timer (0 secs left)
+2023/07/10 21:31:38 autossh[1106]: set alarm for 600 secs
+2023/07/10 21:31:38 autossh[1107]: child of 1106 execing /usr/bin/ssh
