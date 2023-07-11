@@ -33,3 +33,6 @@
 # On switch node
 @reboot sudo /usr/local/bin/restart_lora_at_noevio_gateway.sh 10.10.101.1
 @hourly sudo /usr/local/bin/restart_lora_at_noevio_gateway.sh 10.10.101.1
+
+# Generate datalogger mock data
+*/10 * * * * /home/ubuntu/miscellaneous/gateways/data-tools/datalogger-mock-data-generator.sh
