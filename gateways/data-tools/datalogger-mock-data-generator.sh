@@ -67,7 +67,7 @@ if [ ! -s "$datalogger_mock_data_generator_data_file_path" ]; then
   current_timestamp=$(date +'%Y-%m-%d %H:%M:00')
 
   # Print initial row to CSV
-  echo "$current_timestamp,$record,$(generate_random_value 12.0 12.5),$(generate_random_value 12.0 13.0),$(generate_random_value 0.1 1.0),$(generate_random_value 0.01 0.1),$(generate_random_value 100.0 105.0),$(generate_random_value 10.0 15.0),$(generate_random_value 50 70),$(generate_random_value 0.0 5.0),$(generate_random_value 1.0 5.0),$(generate_random_value 0 360),$(generate_random_value 200.0 500.0),$(generate_random_value 200.0 500.0),$(generate_random_value 200.0 500.0),$(generate_random_value 200.0 500.0),$(generate_random_value 280.0 300.0),$(generate_random_value 0.0 0.5)" >> $datalogger_mock_data_generator_data_file_path
+  echo "\"$current_timestamp\",$record,$(generate_random_value 12.0 12.5),$(generate_random_value 12.0 13.0),$(generate_random_value 0.1 1.0),$(generate_random_value 0.01 0.1),$(generate_random_value 100.0 105.0),$(generate_random_value 10.0 15.0),$(generate_random_value 50 70),$(generate_random_value 0.0 5.0),$(generate_random_value 1.0 5.0),$(generate_random_value 0 360),$(generate_random_value 200.0 500.0),$(generate_random_value 200.0 500.0),$(generate_random_value 200.0 500.0),$(generate_random_value 200.0 500.0),$(generate_random_value 280.0 300.0),$(generate_random_value 0.0 0.5)" >> $datalogger_mock_data_generator_data_file_path
 else
   # Get the last recorded record number from the CSV file
   last_record_number=$(tail -n 1 $datalogger_mock_data_generator_data_file_path | cut -d',' -f2)
@@ -109,7 +109,7 @@ for ((i=1; i<=missed_intervals; i++)); do
   albedo_avg=$(generate_random_value 0.0 0.5)
 
   # Print the row to CSV
-  echo "$missed_timestamp,$record,$battv,$ptemp_c,$par_den_avg,$par_tot_tot,$bp_kpa_avg,$airtc_avg,$rh,$rain_mm_tot,$ws_ms_avg,$wind_dir,$sr01up_avg,$sr01dn_avg,$ir01upco_avg,$ir01dnco_avg,$nr01tk_avg,$albedo_avg" >> $datalogger_mock_data_generator_data_file_path
+  echo "\"$missed_timestamp\",$record,$battv,$ptemp_c,$par_den_avg,$par_tot_tot,$bp_kpa_avg,$airtc_avg,$rh,$rain_mm_tot,$ws_ms_avg,$wind_dir,$sr01up_avg,$sr01dn_avg,$ir01upco_avg,$ir01dnco_avg,$nr01tk_avg,$albedo_avg" >> $datalogger_mock_data_generator_data_file_path
 
   # Increment the record number
   record=$((record + 1))
