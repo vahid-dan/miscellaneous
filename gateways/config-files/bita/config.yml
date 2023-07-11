@@ -36,13 +36,13 @@ git_garbage_collector:
 health_checks_io:
   ping_url: https://hc-ping.com/bf7a9370-62dc-4460-92cd-3dd8c73653b6
 
-# reverse_ssh:
-#   log_file: reverse-ssh.log
-#   local_port: 60004
-#   base_port: 61000
-#   remote_port: 22
-#   localhost: localhost
-#   server: 149.165.159.29
-#   user: ubuntu
-#   ServerAliveInterval: 30
-#   ServerAliveCountMax: 3
+reverse_ssh:
+  log_file: reverse-ssh.log
+  local_port: 60004
+  base_port: 61000
+  remote_port: 22
+  localhost: localhost
+  server: 149.165.159.29
+  user: ubuntu
+  ServerAliveInterval: 30
+  ServerAliveCountMax: 3

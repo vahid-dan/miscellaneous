@@ -24,8 +24,12 @@
 
 # Runs Nebula VPN
 @reboot sleep 60 && sudo /usr/local/bin/restart_nebula.sh
-00 08 * * * sudo /usr/local/bin/restart_nebula.sh
+00 * * * * sudo /usr/local/bin/restart_nebula.sh
 
 # Runs LoRa Radio
+# On pendant node
 @reboot sudo /usr/local/bin/restart_lora_at_pendant.sh 10.10.101.2/24 10.10.101.1
 @hourly sudo /usr/local/bin/restart_lora_at_pendant.sh 10.10.101.2/24 10.10.101.1
+# On switch node
+@reboot sudo /usr/local/bin/restart_lora_at_noevio_gateway.sh 10.10.101.1
+@hourly sudo /usr/local/bin/restart_lora_at_noevio_gateway.sh 10.10.101.1
