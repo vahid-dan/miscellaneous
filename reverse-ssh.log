@@ -8,3 +8,26 @@
 2023/07/10 21:31:38 autossh[1106]: clear alarm timer (0 secs left)
 2023/07/10 21:31:38 autossh[1106]: set alarm for 600 secs
 2023/07/10 21:31:38 autossh[1107]: child of 1106 execing /usr/bin/ssh
+2023/07/10 21:41:38 autossh[1106]: received SIGALRM (end-of-life 0)
+2023/07/10 21:41:53 autossh[1106]: timeout polling to accept read connection
+2023/07/10 21:41:53 autossh[1106]: port down, restarting ssh
+2023/07/10 21:41:53 autossh[1106]: clear alarm timer (0 secs left)
+2023/07/10 21:41:53 autossh[1106]: checking for grace period, tries = 0
+2023/07/10 21:41:53 autossh[1106]: starting ssh (count 2)
+2023/07/10 21:41:53 autossh[1106]: ssh child pid is 1898
+2023/07/10 21:41:53 autossh[1106]: check on child 1898
+2023/07/10 21:41:53 autossh[1106]: clear alarm timer (0 secs left)
+2023/07/10 21:41:53 autossh[1106]: set alarm for 600 secs
+2023/07/10 21:41:53 autossh[1898]: child of 1106 execing /usr/bin/ssh
+2023/07/10 21:48:07 autossh[1106]: received signal to exit (15)
+2023/07/10 21:48:07 autossh[1106]: clear alarm timer (227 secs left)
+
+############################ carina - 07/10/23 22:04:00 EST -0500 ############################
+
+2023/07/10 22:04:01 autossh[1162]: checking for grace period, tries = 0
+2023/07/10 22:04:01 autossh[1162]: starting ssh (count 1)
+2023/07/10 22:04:01 autossh[1162]: ssh child pid is 1163
+2023/07/10 22:04:01 autossh[1162]: check on child 1163
+2023/07/10 22:04:01 autossh[1162]: clear alarm timer (0 secs left)
+2023/07/10 22:04:01 autossh[1162]: set alarm for 600 secs
+2023/07/10 22:04:01 autossh[1163]: child of 1162 execing /usr/bin/ssh

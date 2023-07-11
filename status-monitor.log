@@ -64,3 +64,69 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 rtt min/avg/max/mdev = 5.343/5.847/6.754/0.642 ms
+
+############################ carina - 07/10/23 22:04:00 EST -0500 ############################
+
+ 22:04:00 up 1 min,  1 user,  load average: 0.27, 0.11, 0.04
+
+
+reboot   system boot  5.15.0-76-generi Mon Jul 10 22:02   still running
+reboot   system boot  5.15.0-76-generi Mon Jul 10 21:30 - 22:02  (00:31)
+reboot   system boot  5.15.0-76-generi Mon Jul 10 21:17 - 21:29  (00:11)
+reboot   system boot  5.15.0-76-generi Mon Jul 10 16:36 - 20:46  (04:09)
+reboot   system boot  5.15.0-76-generi Thu Jun 29 11:10 - 21:55  (10:45)
+
+
+
+
+
+
+
+
+[    9.691533] audit: type=1400 audit(1689044577.747:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=588 comm="apparmor_parser"
+[   13.213541] loop0: detected capacity change from 0 to 8
+[   13.659960] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[   13.660290] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   14.924070] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX/TX
+[   15.006736] audit: type=1400 audit(1689044583.059:12): apparmor="STATUS" operation="profile_load" profile="unconfined" name="docker-default" pid=793 comm="apparmor_parser"
+[   15.679670] IPv6: ADDRCONF(NETDEV_CHANGE): eno1: link becomes ready
+[   16.042758] bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+[   16.047560] Bridge firewalling registered
+[   16.280524] Initializing XFRM netlink socket
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2                     2.0G  131M  1.7G   8% /boot
+/dev/mmcblk0p1                     1.1G  6.1M  1.1G   1% /boot/efi
+/dev/sda1                           29G  496K   28G   1% /data
+
+
+tail: cannot open '/var/log/vsftpd.log' for reading: No such file or directory
+
+
+
+
+
+
+enp2s0:
+192.168.1.171/24
+
+
+PING github.com (140.82.113.3) 56(84) bytes of data.
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=1 ttl=53 time=9.71 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=2 ttl=53 time=8.93 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=3 ttl=53 time=10.5 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 8.927/9.722/10.530/0.654 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=116 time=5.10 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=116 time=5.78 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=116 time=10.9 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 5.098/7.262/10.907/2.592 ms

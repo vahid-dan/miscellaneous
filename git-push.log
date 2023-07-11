@@ -35,3 +35,24 @@ Everything up-to-date
 
 Logs:
 
+[carina-logs c61984d] 07/10/23 21:32:40 EST -0500: Logs
+ 2 files changed, 33 insertions(+)
+ create mode 100644 git-garbage-collector.log
+To github.com:FLARE-forecast/miscellaneous.git
+   1e18cb0..c61984d  carina-logs -> carina-logs
+
+Completed at 07/10/23 21:32:41 EST
+
+
+############################ carina - 07/10/23 22:05:00 EST -0500 ############################
+
+Data:
+
+[datalogger-mock-data 34efa04] 07/10/23 22:05:00 EST -0500: Git Backup
+ 1 file changed, 2 insertions(+)
+ create mode 100644 datalogger-mock-data.csv
+To github.com:FLARE-forecast/miscellaneous.git
+   52ad97d..34efa04  datalogger-mock-data -> datalogger-mock-data
+
+Logs:
+
