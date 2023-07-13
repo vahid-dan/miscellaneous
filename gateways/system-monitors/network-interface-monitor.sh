@@ -25,15 +25,12 @@ echo -e "\n############################ $general_gateway_name - $timestamp #####
 
 while true; do
   # Check if the interface is up
-  while ! ip link show tnc0 up &>/dev/null; do
+  while ! ip link show $network_interface_monitor_interface up &>/dev/null; do
     sleep 1  # Wait for 1 second before checking again
   done
 
-  # Generate timestamp
-  timestamp=$(date "+%Y-%m-%d %H:%M:%S")
-
   # Start tcpdump with timestamp in output
-  sudo nohup tcpdump -i tnc0 -l -n | while read line; do
+  sudo nohup tcpdump -i $network_interface_monitor_interface -l -n | while read line; do
     echo "$(date "+%Y-%m-%d %H:%M:%S") $line" 2>&1 | tee -a $network_interface_monitor_log_file_path
   done
 
