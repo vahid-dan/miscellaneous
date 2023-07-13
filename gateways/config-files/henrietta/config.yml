@@ -62,6 +62,9 @@ datalogger_mock_data_generator:
   interval: 10 # Frequency of generating data in minutes
 
 network_interface_monitor:
-  enabled: true
-  interface: tnc0
-  log_file: network-interface-monitor-%(interface)s.log
+  enabled: false
+  interfaces:
+    - name: tnc0
+      log_file: network-interface-monitor-tnc0.log
+    - name: nebula1
+      log_file: network-interface-monitor-nebula1.log

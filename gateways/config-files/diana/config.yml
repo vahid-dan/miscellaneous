@@ -11,32 +11,40 @@ general:
   git_logs_branch: diana-logs
 
 scheduler:
+  enabled: true
   shutdown_delay_after_reboot: 30 # Shutdown delay after reboot in minutes
   shutdown_time: 00:10 # Exact time for shutdown
 
 startup_notifier:
+  enabled: true
   log_file: startup-notifier.log
   local_repo_dir: startup-notifier
   git_repo: git@github.com:FLARE-forecast/FCRE-data.git
   git_branch: main
 
 status_monitor:
+  enabled: true
   log_file: status-monitor.log
 
 ping_monitor:
+  enabled: true
   log_file_full: ping-monitor-full.log
   log_file_stat: ping-monitor-stat.log
 
 git_push:
+  enabled: true
   log_file: git-push.log
 
 git_garbage_collector:
+  enabled: true
   log_file: git-garbage-collector.log
 
 health_checks_io:
+  enabled: true
   ping_url: https://hc-ping.com/bf7a9370-62dc-4460-92cd-3dd8c73653b6
 
 reverse_ssh:
+  enabled: true
   log_file: reverse-ssh.log
   local_port: 60011
   base_port: 61000
@@ -46,3 +54,17 @@ reverse_ssh:
   user: ubuntu
   ServerAliveInterval: 30
   ServerAliveCountMax: 3
+
+datalogger_mock_data_generator:
+  enabled: false
+  log_file: datalogger-mock-data-generator.log
+  data_file: datalogger-mock-data.csv
+  interval: 10 # Frequency of generating data in minutes
+
+network_interface_monitor:
+  enabled: false
+  interfaces:
+    - name: tnc0
+      log_file: network-interface-monitor-tnc0.log
+    - name: nebula1
+      log_file: network-interface-monitor-nebula1.log
