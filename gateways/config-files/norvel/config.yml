@@ -11,32 +11,40 @@ general:
   git_logs_branch: norvel-logs
 
 scheduler:
+  enabled: true
   shutdown_delay_after_reboot: 30 # Shutdown delay after reboot in minutes
   shutdown_time: 00:10 # Exact time for shutdown
 
 startup_notifier:
+  enabled: true
   log_file: startup-notifier.log
   local_repo_dir: startup-notifier
   git_repo: git@github.com:FLARE-forecast/FCRE-data.git
   git_branch: main
 
 status_monitor:
+  enabled: true
   log_file: status-monitor.log
 
 ping_monitor:
+  enabled: true
   log_file_full: ping-monitor-full.log
   log_file_stat: ping-monitor-stat.log
 
 git_push:
+  enabled: true
   log_file: git-push.log
 
 git_garbage_collector:
+  enabled: true
   log_file: git-garbage-collector.log
 
 health_checks_io:
+  enabled: true
   ping_url: https://hc-ping.com/c6767e4f-d6ae-4b8f-adb4-141f03283f8c
 
 reverse_ssh:
+  enabled: true
   log_file: reverse-ssh.log
   local_port: 60007
   base_port: 61000
@@ -46,3 +54,14 @@ reverse_ssh:
   user: ubuntu
   ServerAliveInterval: 30
   ServerAliveCountMax: 3
+
+datalogger_mock_data_generator:
+  enabled: false
+  log_file: datalogger-mock-data-generator.log
+  data_file: datalogger-mock-data.csv
+  interval: 10 # Frequency of generating data in minutes
+
+network_interface_monitor:
+  enabled: true
+  interface: tnc0
+  log_file: network-interface-monitor-%(interface)s.log
