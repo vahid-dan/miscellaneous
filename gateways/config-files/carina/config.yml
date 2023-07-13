@@ -46,7 +46,7 @@ health_checks_io:
 reverse_ssh:
   enabled: false
   log_file: reverse-ssh.log
-  local_port: 60007
+  local_port: 60002
   base_port: 61000
   remote_port: 22
   localhost: localhost
@@ -61,7 +61,7 @@ datalogger_mock_data_generator:
   data_file: datalogger-mock-data.csv
   interval: 10 # Frequency of generating data in minutes
 
-network-interface-monitor:
+network_interface_monitor:
   enabled: true
   interface: tnc0
   log_file: network-interface-monitor-%(interface)s.log
