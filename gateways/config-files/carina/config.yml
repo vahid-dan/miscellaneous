@@ -60,3 +60,8 @@ datalogger_mock_data_generator:
   log_file: datalogger-mock-data-generator.log
   data_file: datalogger-mock-data.csv
   interval: 10 # Frequency of generating data in minutes
+
+network-interface-monitor:
+  enabled: true
+  interface: tnc0
+  log_file: network-interface-monitor-%(interface)s.log
