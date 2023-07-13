@@ -17,6 +17,7 @@ network_interface_monitor_log_file=$(yq e '.network_interface_monitor.log_file' 
 network_interface_monitor_interface=$(yq e '.network_interface_monitor.interface' $config_file)
 network_interface_monitor_log_file_with_interface=$(echo "$network_interface_monitor_log_file" | sed "s/%(interface)s/$network_interface_monitor_interface/g")
 network_interface_monitor_log_file_with_interface_path=$general_data_dir/$general_git_logs_branch/$network_interface_monitor_log_file_with_interface
+network_interface_monitor_enabled=$(yq e '.network_interface_monitor.enabled' $config_file)
 
 timestamp=$(date +"%D %T %Z %z")
 
