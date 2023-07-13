@@ -501,3 +501,22 @@ To github.com:FLARE-forecast/miscellaneous.git
 
 Logs:
 
+[carina-logs f763b31] 07/13/23 00:20:03 EST -0500: Logs
+ 2 files changed, 28 insertions(+)
+To github.com:FLARE-forecast/miscellaneous.git
+   7d29c83..f763b31  carina-logs -> carina-logs
+
+Completed at 07/13/23 00:20:05 EST
+
+
+############################ carina - 07/13/23 06:20:01 EST -0500 ############################
+
+Data:
+
+[datalogger-mock-data ddea92c] 07/13/23 06:20:01 EST -0500: Git Backup
+ 1 file changed, 35 insertions(+)
+To github.com:FLARE-forecast/miscellaneous.git
+   ee73fec..ddea92c  datalogger-mock-data -> datalogger-mock-data
+
+Logs:
+
