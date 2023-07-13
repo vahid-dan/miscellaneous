@@ -23,22 +23,35 @@ timestamp=$(date +"%D %T %Z %z")
 
 # Body of the script
 
-echo -e "\n############################ $general_gateway_name - $timestamp ############################\n" 2>&1 | tee -a $network_interface_monitor_log_file_with_interface_path
+echo -e "\n############################ $general_gateway_name - $timestamp ############################\n"
 
 # Check if the script is enabled
 if [ "$network_interface_monitor_enabled" != "true" ]; then
-  echo "The script is not enabled. Exiting ..." 2>&1 | tee -a $network_interface_monitor_log_file_with_interface_path
+  echo "The script is not enabled. Exiting ..."
   exit 0
 fi
 
-while true; do
-  # Check if the interface is up
-  while ! ip link show $network_interface_monitor_interface up &>/dev/null; do
-    sleep 1  # Wait for 1 second before checking again
-  done
-  # Run tcpdump on the interface
-  sudo tcpdump -i $network_interface_monitor_interface -l -n | while read line; do
-    echo "$(date "+%Y-%m-%d") $line" 2>&1 | tee -a $network_interface_monitor_log_file_with_interface_path
-  done
+# Loop over each interface and log file configuration
+interfaces=$(yq e '.network_interface_monitor.interfaces[]' $config_file)
+for interface in $interfaces; do
+  interface_name=$(echo "$interface" | yq e '.name' -)
+  interface_log_file=$(echo "$interface" | yq e '.log_file' -)
+  interface_log_file_path="$general_data_dir/$general_git_logs_branch/$interface_log_file"
 
+  echo -e "\n############################ Interface: $interface_name ############################\n"
+
+  while true; do
+    # Check if the interface is up
+    while ! ip link show $interface_name up &>/dev/null; do
+      sleep 1  # Wait for 1 second before checking again
+    done
+
+    # Run tcpdump on the interface
+    sudo tcpdump -i $interface_name -l -n | while read line; do
+      echo "$(date "+%Y-%m-%d") $line" | tee -a $interface_log_file_path
+    done
+  done &
 done
+
+# Wait for all the background processes to complete before exiting the script 
+wait
