@@ -1111,3 +1111,69 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 rtt min/avg/max/mdev = 6.049/8.943/10.594/2.053 ms
+
+############################ carina - 07/13/23 21:44:30 EST -0500 ############################
+
+ 21:44:30 up 1 min,  0 users,  load average: 0.56, 0.25, 0.09
+
+
+reboot   system boot  5.15.0-76-generi Thu Jul 13 21:43   still running
+reboot   system boot  5.15.0-76-generi Thu Jul 13 21:36 - 21:42  (00:05)
+reboot   system boot  5.15.0-76-generi Thu Jul 13 11:51 - 21:35  (09:44)
+reboot   system boot  5.15.0-76-generi Thu Jul 13 11:34 - 11:50  (00:16)
+reboot   system boot  5.15.0-76-generi Wed Jul 12 13:09 - 11:33  (22:24)
+
+
+
+
+
+
+
+
+[   15.113432] loop0: detected capacity change from 0 to 8
+[   15.255565] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[   15.279060] device eno1 entered promiscuous mode
+[   15.363109] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   16.643563] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX/TX
+[   17.411108] IPv6: ADDRCONF(NETDEV_CHANGE): eno1: link becomes ready
+[   17.728517] audit: type=1400 audit(1689302612.791:12): apparmor="STATUS" operation="profile_load" profile="unconfined" name="docker-default" pid=888 comm="apparmor_parser"
+[   18.710122] bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+[   18.714750] Bridge firewalling registered
+[   18.989088] Initializing XFRM netlink socket
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2                     2.0G  131M  1.7G   8% /boot
+/dev/mmcblk0p1                     1.1G  6.1M  1.1G   1% /boot/efi
+/dev/sda1                           29G  5.3M   28G   1% /data
+
+
+tail: cannot open '/var/log/vsftpd.log' for reading: No such file or directory
+
+
+
+
+
+
+enp2s0:
+192.168.1.171/24
+
+
+PING github.com (140.82.114.3) 56(84) bytes of data.
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=1 ttl=51 time=8.85 ms
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=2 ttl=51 time=7.72 ms
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=3 ttl=51 time=6.98 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.983/7.850/8.848/0.766 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=116 time=5.91 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=116 time=8.14 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=116 time=7.15 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 5.910/7.066/8.140/0.912 ms

@@ -4745,3 +4745,15 @@
 2023/07/13 21:37:45 autossh[1523]: clear alarm timer (0 secs left)
 2023/07/13 21:37:45 autossh[1523]: set alarm for 600 secs
 2023/07/13 21:37:45 autossh[1524]: child of 1523 execing /usr/bin/ssh
+2023/07/13 21:42:35 autossh[1523]: received signal to exit (15)
+2023/07/13 21:42:35 autossh[1523]: clear alarm timer (310 secs left)
+
+############################ carina - 07/13/23 21:44:30 EST -0500 ############################
+
+2023/07/13 21:44:30 autossh[1543]: checking for grace period, tries = 0
+2023/07/13 21:44:30 autossh[1543]: starting ssh (count 1)
+2023/07/13 21:44:30 autossh[1543]: ssh child pid is 1544
+2023/07/13 21:44:30 autossh[1543]: check on child 1544
+2023/07/13 21:44:30 autossh[1543]: clear alarm timer (0 secs left)
+2023/07/13 21:44:30 autossh[1543]: set alarm for 600 secs
+2023/07/13 21:44:30 autossh[1544]: child of 1543 execing /usr/bin/ssh
