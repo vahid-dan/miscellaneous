@@ -178,3 +178,12 @@ Working on: /data/datalogger-mock-data
 Working on: /data/carina-logs
 Disk Usage After Git Garbage Collector:
 /dev/sda1                           29G  5.4M   28G   1% /data
+
+############################ carina - 07/14/23 12:20:04 EST -0500 ############################
+
+Disk Usage Before Git Garbage Collector:
+/dev/sda1                           29G  6.5M   28G   1% /data
+Working on: /data/datalogger-mock-data
+Working on: /data/carina-logs
+Disk Usage After Git Garbage Collector:
+/dev/sda1                           29G  5.7M   28G   1% /data
