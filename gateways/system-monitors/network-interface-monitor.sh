@@ -13,17 +13,9 @@ config_file=/home/ubuntu/miscellaneous/gateways/config-files/config.yml
 general_gateway_name=$(yq e '.general.gateway_name' $config_file)
 general_data_dir=$(yq e '.general.data_dir' $config_file)
 general_git_logs_branch=$(yq e '.general.git_logs_branch' $config_file)
-network_interface_monitor_log_file=$(yq e '.network_interface_monitor.log_file' $config_file)
-network_interface_monitor_interface=$(yq e '.network_interface_monitor.interface' $config_file)
-network_interface_monitor_log_file_with_interface=$(echo "$network_interface_monitor_log_file" | sed "s/%(interface)s/$network_interface_monitor_interface/g")
-network_interface_monitor_log_file_with_interface_path=$general_data_dir/$general_git_logs_branch/$network_interface_monitor_log_file_with_interface
 network_interface_monitor_enabled=$(yq e '.network_interface_monitor.enabled' $config_file)
 
-timestamp=$(date +"%D %T %Z %z")
-
 # Body of the script
-
-echo -e "\n############################ $general_gateway_name - $timestamp ############################\n"
 
 # Check if the script is enabled
 if [ "$network_interface_monitor_enabled" != "true" ]; then
@@ -32,13 +24,11 @@ if [ "$network_interface_monitor_enabled" != "true" ]; then
 fi
 
 # Loop over each interface and log file configuration
-interfaces=$(yq e '.network_interface_monitor.interfaces[]' $config_file)
+interfaces=$(yq e '.network_interface_monitor.interfaces | keys | .[]' $config_file)
 for interface in $interfaces; do
-  interface_name=$(echo "$interface" | yq e '.name' -)
-  interface_log_file=$(echo "$interface" | yq e '.log_file' -)
+  interface_name=$(yq e ".network_interface_monitor.interfaces[\"$interface\"].name" $config_file)
+  interface_log_file=$(yq e ".network_interface_monitor.interfaces[\"$interface\"].log_file" $config_file)
   interface_log_file_path="$general_data_dir/$general_git_logs_branch/$interface_log_file"
-
-  echo -e "\n############################ Interface: $interface_name ############################\n"
 
   while true; do
     # Check if the interface is up

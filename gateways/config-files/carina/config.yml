@@ -64,7 +64,7 @@ datalogger_mock_data_generator:
 network_interface_monitor:
   enabled: false
   interfaces:
-    - name: tnc0
-      log_file: network-interface-monitor-tnc0.log
-    - name: nebula1
-      log_file: network-interface-monitor-nebula1.log
+  - name: tnc0
+    log_file: network-interface-monitor-tnc0.log
+  - name: nebula1
+    log_file: network-interface-monitor-nebula1.log
