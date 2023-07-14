@@ -34,5 +34,8 @@
 @reboot sudo /usr/local/bin/restart_lora_at_noevio_gateway.sh 10.10.101.1/24
 @hourly sudo /usr/local/bin/restart_lora_at_noevio_gateway.sh 10.10.101.1/24
 
-# Generate datalogger mock data
+# Generates datalogger mock data
 */10 * * * * /home/ubuntu/miscellaneous/gateways/data-tools/datalogger-mock-data-generator.sh
+
+# Runs tcpdump on network interface(s)
+@reboot /home/ubuntu/miscellaneous/gateways/system-monitors/network-interface-monitor.sh
