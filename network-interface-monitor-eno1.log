@@ -17724,3 +17724,1923 @@
 2023-07-14 06:20:01.805065 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
 2023-07-14 06:20:02.811154 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
 2023-07-14 06:20:03.835225 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:20:05.682377 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:20:06.683145 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:20:07.707167 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:21:01.676049 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:21:02.683131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:21:03.707132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:22:01.263442 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:22:02.267129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:22:03.291126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:23:01.772723 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:23:02.779131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:23:03.803128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:24:01.354790 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:24:02.363137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:24:03.387126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:25:01.869282 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:25:02.875175 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:25:03.899125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:26:01.427063 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:26:02.459129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:26:03.483130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:27:01.919567 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:27:02.939130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:27:03.963141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:28:01.423125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:28:02.427131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:28:03.451128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:29:01.044227 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:29:02.075132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:29:03.099141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:30:01.542085 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:30:02.555144 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:30:03.579126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:30:17.540984 IP6 fe80::201:c0ff:fe1f:d419 > ff02::2: ICMP6, router solicitation, length 16
+2023-07-14 06:31:01.325999 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:31:02.331129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:31:03.355151 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:32:01.840157 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:32:02.843145 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:32:03.867129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:33:01.411883 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:33:02.427127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:33:03.451126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:34:01.903219 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:34:02.907129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:34:03.931128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:35:01.479491 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:35:02.491219 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:35:03.515127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:35:35.786987 IP 10.10.1.3.5353 > 224.0.0.251.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 06:35:35.787011 IP6 fe80::2076:d51c:8842:c724.5353 > ff02::fb.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 06:36:01.990811 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:36:03.003129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:36:04.027125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:37:01.540035 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:37:02.555131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:37:03.579126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:37:33.688409 IP6 fe80::2076:d51c:8842:c724 > ff02::2: ICMP6, router solicitation, length 8
+2023-07-14 06:38:01.038950 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:38:02.043126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:38:03.067127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:39:01.528449 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:39:02.555130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:39:03.579126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:40:01.138331 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:40:02.139139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:40:03.163172 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:41:01.634307 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:41:02.651128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:41:03.675131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:42:01.230604 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:42:02.235153 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:42:03.259138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:43:01.747055 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:43:02.747130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:43:03.771126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:44:01.400091 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:44:02.427125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:44:03.451126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:45:01.915918 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:45:02.939129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:45:03.963127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:46:01.475823 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:46:02.491019 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:46:03.515126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:47:01.971200 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:47:03.003133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:47:04.027130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:48:01.531963 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:48:02.555130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:48:03.579129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:49:01.048438 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:49:02.075131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:49:03.099121 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:50:01.558544 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:50:02.587127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:50:03.611126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:51:01.142176 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:51:02.171136 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:51:03.195126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:52:01.651214 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:52:02.683149 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:52:03.707131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:53:01.274785 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:53:02.299125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:53:03.323127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:54:01.791931 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:54:02.811128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:54:03.835127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:55:01.399299 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:55:02.427156 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:55:03.451170 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:56:01.922726 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:56:02.939128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:56:03.963178 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:57:01.471091 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:57:02.491153 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:57:03.515127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:58:01.962935 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:58:02.971126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:58:03.995127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:58:08.090718 IP6 fe80::201:c0ff:fe1f:d419 > ff02::2: ICMP6, router solicitation, length 16
+2023-07-14 06:59:01.474053 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:59:02.491142 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:59:03.515142 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:00:01.079539 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:00:02.107126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:00:03.131129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:01:01.579845 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:01:02.587132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:01:03.611126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:02:01.200020 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:02:02.203127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:02:03.227144 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:03:01.692043 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:03:02.715131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:03:03.739128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:04:01.315086 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:04:02.331127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:04:03.355127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:05:01.806771 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:05:02.811132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:05:03.835126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:06:01.443708 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:06:02.459139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:06:03.483127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:07:01.936900 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:07:02.939190 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:07:03.963138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:08:01.506376 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:08:02.523138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:08:03.547126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:09:02.023133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:09:03.035129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:09:04.059128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:09:43.568367 IP 10.10.1.3.5353 > 224.0.0.251.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 07:09:43.568369 IP6 fe80::2076:d51c:8842:c724.5353 > ff02::fb.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 07:10:01.601771 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:10:02.619129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:10:03.643127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:11:01.106671 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:11:02.107129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:11:03.131130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:12:01.620278 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:12:02.651140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:12:03.675131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:13:01.240180 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:13:02.267157 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:13:03.291173 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:14:01.736074 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:14:02.747129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:14:03.771130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:14:50.967258 IP6 fe80::2076:d51c:8842:c724 > ff02::2: ICMP6, router solicitation, length 8
+2023-07-14 07:15:01.391355 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:15:02.395128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:15:03.419129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:16:01.900114 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:16:02.907128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:16:03.931130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:17:01.653998 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:17:02.683212 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:17:03.707127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:18:01.156438 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:18:02.171141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:18:03.195128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:19:01.660487 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:19:02.683173 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:19:03.707148 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:20:01.297495 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:20:02.299130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:20:03.323130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:21:01.807471 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:21:02.811141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:21:03.835129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:22:01.387988 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:22:02.395220 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:22:03.419122 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:23:01.928109 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:23:02.939158 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:23:03.963140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:24:01.503334 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:24:02.523134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:24:03.547126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:25:02.035926 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:25:03.067130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:25:04.091124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:26:01.688137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:26:02.715128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:26:03.739131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:27:01.219360 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:27:02.235192 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:27:03.259128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:28:01.735255 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:28:02.747175 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:28:03.771128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:29:01.310801 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:29:02.331127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:29:03.355124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:30:01.797657 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:30:02.811128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:30:03.835135 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:31:01.399254 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:31:02.427126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:31:03.451123 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:32:01.890868 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:32:02.907129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:32:03.931126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:33:01.467924 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:33:02.491120 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:33:03.515124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:34:01.997529 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:34:03.003096 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:34:04.027127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:35:01.582853 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:35:02.587130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:35:03.611122 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:36:01.105947 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:36:02.107124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:36:03.131126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:37:01.606826 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:37:02.619126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:37:03.643127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:38:01.239689 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:38:02.267143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:38:03.291128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:39:01.755457 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:39:02.779154 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:39:03.803130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:40:01.390251 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:40:02.395123 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:40:03.419128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:41:01.885793 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:41:02.907130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:41:03.931131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:42:01.483676 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:42:02.491117 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:42:03.515131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:43:01.066613 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:43:02.075140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:43:03.099143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:44:01.582746 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:44:02.587132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:44:03.611131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:45:01.190513 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:45:02.203214 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:45:03.227127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:46:01.686823 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:46:02.715130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:46:03.739124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:47:01.275156 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:47:02.299141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:47:03.323126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:48:01.782850 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:48:02.811128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:48:03.835126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:49:01.389862 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:49:02.395148 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:49:03.419149 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:50:01.881936 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:50:02.907151 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:50:03.931132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:51:01.467578 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:51:02.491109 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:51:03.515138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:52:01.967563 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:52:02.971230 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:52:03.995127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:53:01.546020 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:53:02.555136 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:53:03.579128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:54:01.063164 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:54:02.075173 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:54:03.099126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:55:01.563195 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:55:02.587152 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:55:03.611128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:55:38.841715 IP6 fe80::201:c0ff:fe1f:d419 > ff02::2: ICMP6, router solicitation, length 16
+2023-07-14 07:56:01.167312 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:56:02.171146 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:56:03.195138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:57:01.672285 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:57:02.683130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:57:03.707125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:58:01.242745 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:58:02.267129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:58:03.291151 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:59:01.755212 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:59:02.779145 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 07:59:03.803130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:00:01.387774 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:00:02.395127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:00:03.419126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:01:01.899049 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:01:02.907126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:01:03.931127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:02:01.515337 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:02:02.523140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:02:03.547128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:03:02.023980 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:03:03.035128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:03:04.059143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:04:01.600057 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:04:02.619132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:04:03.643128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:05:01.134656 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:05:02.139140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:05:03.163126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:06:01.643889 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:06:02.651133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:06:03.675139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:07:01.247839 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:07:02.267134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:07:03.291142 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:08:01.763141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:08:02.779131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:08:03.803126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:09:01.364233 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:09:02.395128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:09:03.419128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:09:43.594610 IP 10.10.1.3.5353 > 224.0.0.251.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 08:09:43.594614 IP6 fe80::2076:d51c:8842:c724.5353 > ff02::fb.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 08:09:47.427381 IP6 fe80::2076:d51c:8842:c724 > ff02::2: ICMP6, router solicitation, length 8
+2023-07-14 08:10:01.874331 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:10:02.875126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:10:03.899170 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:11:01.463835 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:11:02.491131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:11:03.515129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:12:01.067467 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:12:02.075128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:12:03.099127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:13:01.571369 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:13:02.587126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:13:03.611172 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:14:01.172355 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:14:02.203130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:14:03.227127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:15:01.691173 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:15:02.715126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:15:03.739130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:16:01.279574 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:16:02.299127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:16:03.323126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:17:01.774438 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:17:02.779128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:17:03.803129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:18:01.384592 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:18:02.395130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:18:03.419127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:18:05.342944 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 08:18:05.343031 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 08:18:05.343301 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 239
+2023-07-14 08:18:05.347990 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 277
+2023-07-14 08:18:10.405281 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 32
+2023-07-14 08:18:10.405765 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 16
+2023-07-14 08:18:10.459134 ARP, Request who-has 10.10.1.3 tell 10.10.1.2, length 28
+2023-07-14 08:18:10.459479 ARP, Reply 10.10.1.3 is-at 98:fa:9b:44:81:be, length 46
+2023-07-14 08:18:18.933618 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 238
+2023-07-14 08:18:18.938165 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 276
+2023-07-14 08:18:24.405586 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 32
+2023-07-14 08:18:24.405955 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 16
+2023-07-14 08:18:25.099035 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 08:18:25.118266 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 08:18:36.470907 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 08:19:01.894780 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:19:02.907088 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:19:03.931128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:20:01.470027 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:20:02.491154 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:20:03.515138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:21:01.975734 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:21:03.003129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:21:04.027143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:22:01.533733 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:22:02.555130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:22:03.579126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:23:01.043039 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:23:02.043130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:23:03.067130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:24:01.530957 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:24:02.555138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:24:03.579126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:25:01.127450 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:25:02.139132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:25:03.163153 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:26:01.646981 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:26:02.651156 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:26:03.675136 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:27:01.220405 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:27:02.235127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:27:03.259128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:28:01.726102 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:28:02.747129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:28:03.771129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:29:01.315688 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:29:02.331143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:29:03.355128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:30:01.835770 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:30:02.843130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:30:03.867132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:31:01.435155 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:31:02.459137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:31:03.483127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:32:01.939353 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:32:02.971124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:32:03.995127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:33:01.526691 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:33:02.555130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:33:03.579128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:34:02.024104 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:34:03.035128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:34:04.059128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:35:01.627930 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:35:02.651192 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:35:03.675137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:36:01.135051 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:36:02.139128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:36:03.163148 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:37:01.626614 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:37:02.651127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:37:03.675139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:38:01.196359 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:38:02.203138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:38:03.227126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:39:01.698442 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:39:02.715140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:39:03.739137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:40:01.293555 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:40:02.299105 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:40:03.323129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:41:01.791047 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:41:02.811144 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:41:03.835126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:42:01.363903 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:42:02.395176 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:42:03.419127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:43:01.880176 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:43:02.907154 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:43:03.931128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:44:01.483606 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:44:02.491131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:44:03.515131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:45:01.980251 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:45:03.003145 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:45:04.027130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:46:01.551291 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:46:02.555129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:46:03.579130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:47:01.058740 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:47:02.075137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:47:03.099125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:48:01.656108 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:48:02.683182 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:48:03.707081 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:49:01.178318 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:49:02.203150 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:49:03.227128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:50:01.777984 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:50:02.779157 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:50:03.803134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:51:01.288229 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:51:02.299148 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:51:03.323170 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:52:01.879388 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:52:02.907129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:52:03.931129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:53:01.387270 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:53:02.395134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:53:03.419129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:54:02.004176 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:54:03.035125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:54:04.059128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:55:01.514521 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:55:02.523144 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:55:03.547127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:56:01.106803 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:56:02.107129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:56:03.131130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:57:01.615518 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:57:02.619157 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:57:03.643135 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:58:01.226632 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:58:02.235173 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:58:03.259138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:59:01.728521 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:59:02.747155 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:59:03.771129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 08:59:27.712034 IP6 fe80::201:c0ff:fe1f:d419 > ff02::2: ICMP6, router solicitation, length 16
+2023-07-14 09:00:01.316850 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:00:02.331173 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:00:03.355127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:00:23.215042 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 09:00:28.466039 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 09:00:28.466089 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 09:01:01.847070 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:01:02.875123 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:01:03.899127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:02:01.422810 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:02:02.427027 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:02:03.451127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:03:01.915215 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:03:02.939132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:03:03.963123 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:04:01.502274 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:04:02.523154 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:04:03.547145 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:05:02.011063 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:05:03.035143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:05:04.059132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:06:01.627315 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:06:02.651150 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:06:03.675142 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:06:39.788971 IP6 fe80::2076:d51c:8842:c724 > ff02::2: ICMP6, router solicitation, length 8
+2023-07-14 09:07:01.135810 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:07:02.139134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:07:03.163171 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:08:01.631655 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:08:02.651134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:08:03.675126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:09:01.224011 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:09:02.235141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:09:03.259120 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:09:43.613901 IP 10.10.1.3.5353 > 224.0.0.251.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 09:09:43.613921 IP6 fe80::2076:d51c:8842:c724.5353 > ff02::fb.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 09:10:01.733391 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:10:02.747126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:10:03.771126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:11:01.315456 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:11:02.331131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:11:03.355122 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:12:01.838945 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:12:02.843082 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:12:03.867127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:13:01.447528 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:13:02.459081 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:13:03.483127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:14:01.946637 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:14:02.971129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:14:03.995126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:15:01.519779 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:15:02.523154 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:15:03.547131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:16:02.027636 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:16:03.035134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:16:04.059126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:17:01.586414 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:17:02.587141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:17:03.611135 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:18:01.099805 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:18:02.107130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:18:03.131126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:19:01.611113 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:19:02.619131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:19:03.643103 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:20:01.217932 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:20:02.235141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:20:03.259129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:21:01.711120 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:21:02.715142 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:21:03.739135 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:22:01.324428 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:22:02.331141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:22:03.355173 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:23:01.818136 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:23:02.843128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:23:03.867129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:24:01.414533 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:24:02.427093 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:24:03.451128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:25:01.907511 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:25:02.939131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:25:03.963131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:25:40.510513 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 09:25:40.540660 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 09:25:40.547810 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 09:25:40.868760 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 09:25:45.523000 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 09:25:45.523050 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 09:26:01.475318 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:26:02.491218 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:26:03.515127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:27:02.039735 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:27:03.067128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:27:04.091130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:28:01.554722 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:28:02.555144 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:28:03.579130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:29:01.187455 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:29:02.203139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:29:03.227129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:30:01.681055 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:30:02.683172 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:30:03.707127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:30:11.065171 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 239
+2023-07-14 09:30:11.069666 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 277
+2023-07-14 09:30:15.844129 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 32
+2023-07-14 09:30:15.844427 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 16
+2023-07-14 09:30:16.091145 ARP, Request who-has 10.10.1.3 tell 10.10.1.2, length 28
+2023-07-14 09:30:16.091323 ARP, Reply 10.10.1.3 is-at 98:fa:9b:44:81:be, length 46
+2023-07-14 09:30:16.115529 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 09:30:16.115579 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 09:31:01.259310 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:31:02.267139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:31:03.291131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:32:01.756333 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:32:02.779129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:32:03.803132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:32:42.989629 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 09:32:48.183578 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 09:32:48.183629 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 09:33:01.283337 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:33:02.299173 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:33:03.323130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:34:01.902970 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:34:02.907130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:34:03.931128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:35:01.420727 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:35:02.427118 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:35:03.451142 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:36:01.983214 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:36:03.003132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:36:04.027131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:37:01.493345 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:37:02.523127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:37:03.547129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:38:01.183057 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:38:02.203142 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:38:03.227128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:39:01.694463 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:39:02.715129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:39:03.739126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:40:01.317998 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:40:02.331133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:40:03.355128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:41:01.814067 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:41:02.843132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:41:03.867120 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:42:01.402238 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:42:02.427130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:42:03.451131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:43:01.903761 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:43:02.907131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:43:03.931130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:44:01.507249 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:44:02.523156 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:44:03.547080 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:45:02.026188 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:45:03.035173 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:45:04.059083 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:46:01.683276 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:46:02.715025 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:46:03.739129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:47:01.191683 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:47:02.203142 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:47:03.227130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:48:01.694561 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:48:02.715175 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:48:03.739153 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:49:01.278513 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:49:02.299133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:49:03.323127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:50:01.786045 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:50:02.811134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:50:03.835138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:51:01.347185 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:51:02.363129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:51:03.387127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:52:01.875978 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:52:02.907129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:52:03.931128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:53:01.478744 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:53:02.491130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:53:03.515129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:54:01.974815 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:54:03.003132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:54:04.027129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:55:01.543166 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:55:02.555141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:55:03.579145 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:55:48.742707 IP6 fe80::201:c0ff:fe1f:d419 > ff02::2: ICMP6, router solicitation, length 16
+2023-07-14 09:56:01.063114 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:56:02.075132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:56:03.099129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:57:01.558740 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:57:02.587131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:57:03.611128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:58:01.126563 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:58:02.139157 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:58:03.163130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:59:01.626463 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:59:02.651129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 09:59:03.675130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:00:01.239113 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:00:02.267146 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:00:03.291123 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:00:14.406994 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 10:00:19.637240 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 10:00:19.637290 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 10:01:01.755024 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:01:02.779139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:01:03.803128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:01:39.040730 IP6 fe80::2076:d51c:8842:c724 > ff02::2: ICMP6, router solicitation, length 8
+2023-07-14 10:02:01.366618 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:02:02.395033 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:02:03.419125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:03:01.875628 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:03:02.907137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:03:03.931146 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:04:01.474503 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:04:02.491139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:04:03.515127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:05:01.964059 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:05:02.971142 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:05:03.995129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:06:01.530923 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:06:02.555131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:06:03.579127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:07:01.046897 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:07:02.075128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:07:03.099128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:08:01.564570 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:08:02.587132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:08:03.611125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:09:01.156103 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:09:02.171128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:09:03.195127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:09:43.623434 IP 10.10.1.3.5353 > 224.0.0.251.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 10:09:43.623448 IP6 fe80::2076:d51c:8842:c724.5353 > ff02::fb.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 10:10:01.667182 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:10:02.683133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:10:03.707129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:10:08.794388 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 10:10:13.817108 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 10:10:13.817158 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 10:11:01.212406 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:11:02.235139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:11:03.259121 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:12:01.712087 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:12:02.715128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:12:03.739126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:13:01.211540 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:13:02.235240 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:13:03.259140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:14:01.783984 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:14:02.811143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:14:03.835127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:15:01.296037 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:15:02.299128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:15:03.323125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:16:01.876337 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:16:02.907139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:16:03.931136 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:17:01.402624 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:17:02.427143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:17:03.451140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:18:02.012478 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:18:03.035128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:18:04.059129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:19:01.520824 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:19:02.523131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:19:03.547128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:20:01.121949 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:20:02.139122 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:20:03.163126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:21:01.619256 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:21:02.651126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:21:03.675127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:22:01.223540 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:22:02.235137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:22:03.259126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:23:01.727981 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:23:02.747132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:23:03.771127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:24:01.343228 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:24:02.363129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:24:03.387127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:25:01.867215 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:25:02.875138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:25:03.899127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:26:01.462969 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:26:02.491129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:26:03.515127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:27:01.954257 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:27:02.971123 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:27:03.995127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:28:01.564023 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:28:02.587133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:28:03.611128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:29:01.054740 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:29:02.075140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:29:03.099128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:30:01.548712 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:30:02.555123 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:30:03.579126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:31:02.015704 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:31:03.035127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:31:04.059126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:32:01.519687 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:32:02.523131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:32:03.547178 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:33:02.014638 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:33:03.035129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:33:04.059130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:34:01.574434 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:34:02.587140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:34:03.611129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:35:01.083199 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:35:02.107135 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:35:03.131153 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:36:01.592040 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:36:02.619139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:36:03.643126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:37:01.173542 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:37:02.203149 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:37:03.227148 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:38:01.686244 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:38:02.715225 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:38:03.739127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:39:01.306373 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:39:02.331130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:39:03.355127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:40:01.814478 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:40:02.843128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:40:03.867129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:41:01.399137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:41:02.427129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:41:03.451125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:42:01.953978 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:42:02.971127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:42:03.995127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:43:01.478450 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:43:02.491131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:43:03.515127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:44:01.041415 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:44:02.043129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:44:03.067133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:45:01.555992 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:45:02.587131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:45:03.611128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:46:01.146816 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:46:02.171028 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:46:03.195127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:47:01.645941 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:47:02.651129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:47:03.675127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:48:01.242575 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:48:02.267130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:48:03.291159 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:49:01.782587 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:49:02.811131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:49:03.835129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:50:01.438437 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:50:02.459084 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:50:03.483130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:51:01.936863 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:51:02.939134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:51:03.963126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:52:01.515097 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:52:02.523132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:52:03.547132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:53:02.025505 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:53:03.035131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:53:04.059143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:54:01.623439 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:54:02.651130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:54:03.675179 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:55:01.139619 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:55:02.171127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:55:03.195128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:56:01.656429 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:56:02.683128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:56:03.707127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:57:01.282073 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:57:02.299144 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:57:03.323138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:58:01.843950 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:58:02.875129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:58:03.899126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:59:01.356255 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:59:02.363126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 10:59:03.387129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:00:01.939274 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:00:02.971133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:00:03.995131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:00:16.927983 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 11:00:22.073112 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 11:00:22.073162 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 11:01:01.480157 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:01:02.491140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:01:03.515143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:01:06.629635 IP6 fe80::201:c0ff:fe1f:d419 > ff02::2: ICMP6, router solicitation, length 16
+2023-07-14 11:02:01.091781 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:02:02.107131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:02:03.131130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:02:14.953018 IP6 fe80::2076:d51c:8842:c724 > ff02::2: ICMP6, router solicitation, length 8
+2023-07-14 11:03:01.604817 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:03:02.619132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:03:03.643128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:04:01.179821 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:04:02.203137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:04:03.227132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:05:01.683107 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:05:02.715130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:05:03.739126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:06:01.258867 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:06:02.267129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:06:03.291128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:07:01.771213 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:07:02.779131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:07:03.803131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:08:01.415775 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:08:02.427104 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:08:03.451127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:09:01.926830 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:09:02.939125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:09:03.963126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:09:43.627206 IP 10.10.1.3.5353 > 224.0.0.251.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 11:09:43.627226 IP6 fe80::2076:d51c:8842:c724.5353 > ff02::fb.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 11:10:01.372174 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 11:10:01.532746 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:10:02.555128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:10:03.579137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:10:06.520487 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 11:10:06.520546 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 11:11:01.039391 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:11:02.043127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:11:03.067128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:12:01.567611 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:12:02.587135 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:12:03.611139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:13:01.163082 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:13:02.171130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:13:03.195126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:14:01.651386 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:14:02.683129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:14:03.707127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:15:01.288446 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:15:02.299132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:15:03.323127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:16:01.780338 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:16:02.811139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:16:03.835127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:17:01.389805 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:17:02.395129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:17:03.419127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:18:01.888069 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:18:02.907129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:18:03.931127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:19:01.483810 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:19:02.491221 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:19:03.515129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:20:01.983516 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:20:03.003126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:20:04.027129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:21:01.562548 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:21:02.587130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:21:03.611127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:22:01.059268 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:22:02.075131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:22:03.099129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:23:01.573474 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:23:02.587128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:23:03.611127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:24:01.142803 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:24:02.171130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:24:03.195129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:25:01.652080 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:25:02.683126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:25:03.707130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:26:01.255423 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:26:02.267087 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:26:03.291127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:27:01.756406 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:27:02.779138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:27:03.803140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:28:01.391781 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:28:02.395130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:28:03.419127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:29:01.878842 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:29:02.907126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:29:03.931129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:30:01.497706 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:30:02.523128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:30:03.547128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:30:13.710790 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 11:30:18.936559 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 11:30:18.936609 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 11:31:02.024011 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:31:03.035128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:31:04.059130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:31:24.584261 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 11:31:29.592560 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 11:31:29.592610 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 11:32:01.632420 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:32:02.651172 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:32:03.675145 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:33:00.090993 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 11:33:01.164142 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:33:02.171134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:33:03.195134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:33:05.336476 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 11:33:05.336527 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 11:34:01.734883 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:34:02.747130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:34:03.771125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:35:01.239705 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:35:02.267127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:35:03.291128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:35:29.076998 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 11:35:34.328450 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 11:35:34.328500 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 11:36:01.847934 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:36:02.875127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:36:03.899145 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:37:01.502960 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:37:02.523133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:37:03.547143 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:38:01.082792 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:38:02.107132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:38:03.131129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:39:01.596435 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:39:02.619145 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:39:03.643128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:40:01.225695 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:40:02.235138 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:40:03.259127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:41:01.724051 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:41:02.751041 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:41:03.771129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:42:01.304085 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:42:02.331132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:42:03.355126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:43:01.798925 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:43:02.811128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:43:03.835127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:44:01.363680 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:44:02.395127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:44:03.419130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:44:31.300130 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 11:44:36.536193 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 11:44:36.536244 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 11:45:01.867767 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:45:02.875127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:45:03.899147 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:46:01.424693 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:46:02.427128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:46:03.451124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:47:01.915805 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:47:02.939128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:47:03.963134 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:48:01.407801 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:48:02.427126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:48:03.451130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:49:02.011242 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:49:03.035130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:49:04.059125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:50:01.521109 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:50:02.523139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:50:03.547130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:51:01.086696 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:51:02.107139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:51:03.131174 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:52:01.592248 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:52:02.619128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:52:03.643124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:53:01.211706 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:53:02.235137 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:53:03.259080 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:54:01.718853 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:54:02.747130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:54:03.771124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:55:01.342877 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:55:02.363127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:55:03.387126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:56:01.855429 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:56:02.875128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:56:03.899127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:57:01.450823 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:57:02.459085 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:57:03.483124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:58:01.972262 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:58:03.003125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:58:04.027141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:58:38.062114 IP6 fe80::201:c0ff:fe1f:d419 > ff02::2: ICMP6, router solicitation, length 16
+2023-07-14 11:59:01.546941 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:59:02.555127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 11:59:03.579124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:00:01.067139 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:00:02.075031 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:00:03.099128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:00:23.893500 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:00:29.111215 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:00:29.111265 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:01:01.571133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:01:02.587125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:01:03.611126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:02:01.172045 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:02:02.203133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:02:03.227140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:03:01.663355 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:03:02.683128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:03:03.707126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:04:01.278919 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:04:02.299141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:04:03.323127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:04:25.992753 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 239
+2023-07-14 12:04:25.997952 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 277
+2023-07-14 12:04:25.998583 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 92
+2023-07-14 12:04:26.002456 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 92
+2023-07-14 12:04:26.002824 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:26.003039 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 125
+2023-07-14 12:04:26.003887 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:04:26.206303 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 125
+2023-07-14 12:04:26.206754 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:26.207534 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1332
+2023-07-14 12:04:26.207535 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 340
+2023-07-14 12:04:26.207817 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:04:26.207842 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:04:26.210544 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1164
+2023-07-14 12:04:26.212764 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 132
+2023-07-14 12:04:26.226889 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 608
+2023-07-14 12:04:26.233838 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 100
+2023-07-14 12:04:26.275213 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:04:26.275623 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:04:26.276010 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:04:26.276200 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 128
+2023-07-14 12:04:26.276624 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 152
+2023-07-14 12:04:26.286494 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 136
+2023-07-14 12:04:26.286886 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 584
+2023-07-14 12:04:26.293861 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 544
+2023-07-14 12:04:26.297238 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1072
+2023-07-14 12:04:26.307906 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 112
+2023-07-14 12:04:26.308404 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 196
+2023-07-14 12:04:26.351211 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:04:26.795308 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 860
+2023-07-14 12:04:26.838852 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:26.839262 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 276
+2023-07-14 12:04:26.839668 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:26.839743 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 544
+2023-07-14 12:04:26.840041 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:04:26.843007 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 192
+2023-07-14 12:04:26.843331 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 592
+2023-07-14 12:04:26.843648 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:26.994548 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:04:27.288798 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 192
+2023-07-14 12:04:27.330859 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:28.138689 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:04:28.284109 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:28.285513 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:04:28.285898 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:28.388171 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:28.389335 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:04:28.389748 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:28.572164 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:28.573363 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:04:28.573760 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:28.740204 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:28.741282 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:04:28.741736 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:28.860094 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:28.861172 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:04:28.861604 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:28.924319 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:28.925389 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:04:28.925925 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:29.147128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:04:29.164019 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:29.182895 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 128
+2023-07-14 12:04:29.183190 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:30.171128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:04:30.444077 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:30.445366 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:04:30.445779 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:30.556090 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:30.557161 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:04:30.557597 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:30.844204 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:30.854772 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 128
+2023-07-14 12:04:30.855171 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:30.994671 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 32
+2023-07-14 12:04:30.995053 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 32
+2023-07-14 12:04:31.003194 ARP, Request who-has 10.10.1.3 tell 10.10.1.2, length 28
+2023-07-14 12:04:31.003457 ARP, Reply 10.10.1.3 is-at 98:fa:9b:44:81:be, length 46
+2023-07-14 12:04:31.030861 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:04:31.030911 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:04:31.668119 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:31.669492 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 136
+2023-07-14 12:04:31.669861 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:31.674003 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 136
+2023-07-14 12:04:31.674040 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 600
+2023-07-14 12:04:31.674066 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 496
+2023-07-14 12:04:31.674374 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:31.674375 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:31.674375 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:31.674788 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 192
+2023-07-14 12:04:31.675097 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:37.436352 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:37.437796 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:04:37.438102 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:37.772047 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:37.773424 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 288
+2023-07-14 12:04:37.773759 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:37.932202 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:37.933260 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:04:37.933618 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:38.068079 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:38.069109 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:04:38.069434 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:42.099959 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:04:42.101383 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 208
+2023-07-14 12:04:42.101649 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:42.556787 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 200
+2023-07-14 12:04:42.557093 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:42.558028 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 240
+2023-07-14 12:04:42.558254 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:42.567890 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:04:42.579920 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 184
+2023-07-14 12:04:42.579958 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 136
+2023-07-14 12:04:42.580306 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:42.583686 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 192
+2023-07-14 12:04:42.593043 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1332
+2023-07-14 12:04:42.593075 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 840
+2023-07-14 12:04:42.593446 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:42.600433 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1332
+2023-07-14 12:04:42.600463 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 208
+2023-07-14 12:04:42.600488 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 296
+2023-07-14 12:04:42.600779 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:42.611536 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1332
+2023-07-14 12:04:42.611567 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 856
+2023-07-14 12:04:42.611920 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:42.614257 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 144
+2023-07-14 12:04:42.617418 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1332
+2023-07-14 12:04:42.617451 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:42.617802 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.500731 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.504246 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:44.504274 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:44.504535 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.508564 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.512037 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 272
+2023-07-14 12:04:44.512129 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:44.512501 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.516566 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.520149 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:44.520347 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:44.520612 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.533031 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.536885 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 280
+2023-07-14 12:04:44.537158 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:44.537434 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.564850 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.568903 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:44.569336 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:44.569660 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.634722 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.637110 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 304
+2023-07-14 12:04:44.678936 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.860802 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.865003 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 272
+2023-07-14 12:04:44.865297 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:44.865309 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.865498 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.876575 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.880722 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 272
+2023-07-14 12:04:44.881102 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:44.881423 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.896989 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.899444 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:44.899598 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:44.899793 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:44.915049 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.916181 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 200
+2023-07-14 12:04:44.954622 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:44.955538 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:44.998918 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:45.234727 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:45.236373 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:45.236619 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:45.248685 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:45.250193 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:45.264615 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:45.266374 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:45.290706 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:45.292303 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:45.334686 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:45.335512 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:45.379044 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:48.462650 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:48.466515 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 272
+2023-07-14 12:04:48.466885 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:48.467076 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:48.467333 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:48.578584 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:48.580567 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:48.580687 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:48.580882 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:48.580882 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:48.610636 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:48.612642 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:48.612669 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:48.612999 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:48.691040 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:48.693174 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:48.693201 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:48.693627 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:48.702730 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:48.705014 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 272
+2023-07-14 12:04:48.705043 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:48.705372 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:49.050752 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:49.054876 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 272
+2023-07-14 12:04:49.055143 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:49.055509 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:49.062694 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:49.066780 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:49.067048 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:49.067424 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:49.088560 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:49.090965 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 272
+2023-07-14 12:04:49.091145 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:49.091360 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:49.102537 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:49.104744 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:49.104773 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:49.105183 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:49.132767 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:49.134309 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 200
+2023-07-14 12:04:49.174832 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:49.496707 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:49.498265 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:49.498505 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:49.506628 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:49.510721 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:49.511132 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:49.511511 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:49.520864 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:49.524974 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:49.525396 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:49.525798 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:49.544747 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:49.546273 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:49.590872 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:51.382749 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.386786 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:51.387045 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:51.387272 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:51.387520 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:51.420654 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.424781 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 272
+2023-07-14 12:04:51.425072 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:51.425390 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:51.444653 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.447931 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 304
+2023-07-14 12:04:51.477293 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.479736 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 320
+2023-07-14 12:04:51.490584 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.492686 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:51.492869 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:51.493148 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:51.560570 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.562722 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:51.562749 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:51.562996 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:51.840741 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.844897 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 272
+2023-07-14 12:04:51.845208 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:51.845627 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:51.864715 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.867289 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 272
+2023-07-14 12:04:51.867618 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:04:51.867929 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:51.880659 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.883105 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 264
+2023-07-14 12:04:51.883138 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:51.883324 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:51.896700 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.898100 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 200
+2023-07-14 12:04:51.918540 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.919482 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:51.966906 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:51.980608 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 136
+2023-07-14 12:04:51.981600 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:04:51.981794 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:04:58.255946 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:05:00.076896 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:05:01.192536 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:05:01.235349 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:05:01.788709 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:05:01.881485 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:05:01.881862 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:05:02.707950 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:05:02.708410 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:05:02.709075 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:05:02.709357 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:05:02.809589 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 176
+2023-07-14 12:05:02.810027 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:05:02.811019 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:05:03.835127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:05:04.003881 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:05:04.005284 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 168
+2023-07-14 12:05:04.005734 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:05:04.179828 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:05:04.180696 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:05:04.181087 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:05:05.475920 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:05:05.476938 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:05:05.477212 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:05:05.482699 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 224
+2023-07-14 12:05:05.482987 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:05:05.488214 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 192
+2023-07-14 12:05:05.488553 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:05:07.867120 ARP, Request who-has 10.10.1.3 tell 10.10.1.2, length 28
+2023-07-14 12:05:07.867343 ARP, Reply 10.10.1.3 is-at 98:fa:9b:44:81:be, length 46
+2023-07-14 12:05:11.077329 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:05:15.256594 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:05:17.076829 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:05:20.755994 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:05:22.577111 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:05:25.814898 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:05:25.814948 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:05:26.256422 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:05:28.076971 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:05:31.007619 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 239
+2023-07-14 12:05:31.011751 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 277
+2023-07-14 12:05:31.755787 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:05:36.077650 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 32
+2023-07-14 12:05:36.077945 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 16
+2023-07-14 12:05:37.256169 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:05:43.255552 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:05:48.755807 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:05:54.255896 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:05:59.756399 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:06:01.344120 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:06:02.363130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:06:03.387125 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:06:05.255961 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:06:11.256194 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:06:16.503031 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:06:16.503082 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:06:16.756059 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:06:20.087766 IP6 fe80::2076:d51c:8842:c724 > ff02::2: ICMP6, router solicitation, length 8
+2023-07-14 12:06:22.255895 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:06:27.756011 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:06:33.755995 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:06:39.256331 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:06:44.411325 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:06:44.411375 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:06:44.756470 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:06:50.256565 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:06:55.756002 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:01.256337 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:01.855366 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:07:02.875171 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:07:03.899124 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:07:06.755948 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:11.799083 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:07:11.799133 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:07:12.256642 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:17.756070 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:23.755741 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:28.756623 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:34.256362 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:39.447185 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:07:39.447237 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:07:39.756777 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:45.256744 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:51.255979 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:07:56.256361 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:01.462883 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:08:01.756256 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:02.491089 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:08:03.515131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:08:06.839274 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:08:06.839326 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:08:07.256423 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:12.756255 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:18.256365 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:23.756544 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:29.756146 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:35.003203 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:08:35.003253 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:08:35.256547 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:40.756915 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:46.256803 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:52.256115 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:08:57.756702 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:01.971754 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:09:02.903281 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:09:02.903333 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:09:03.003175 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:09:03.256569 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:04.027127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:09:08.756215 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:14.256502 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:19.756749 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:25.256180 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:30.299327 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:09:30.299375 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:09:30.756275 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:36.256590 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:41.756805 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:43.626492 IP6 fe80::2076:d51c:8842:c724.5353 > ff02::fb.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 12:09:43.626491 IP 10.10.1.3.5353 > 224.0.0.251.5353: 0 [10q] PTR (QM)? _ipps._tcp.local. PTR (QM)? _ftp._tcp.local. PTR (QM)? _webdav._tcp.local. PTR (QM)? _webdavs._tcp.local. PTR (QM)? _sftp-ssh._tcp.local. PTR (QM)? _smb._tcp.local. PTR (QM)? _afpovertcp._tcp.local. PTR (QM)? _nfs._tcp.local. PTR (QM)? _pgpkey-hkp._tcp.local. PTR (QM)? _ipp._tcp.local. (159)
+2023-07-14 12:09:47.256945 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:52.756739 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:09:57.943395 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:09:57.943448 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:09:58.756571 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:01.537453 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:10:02.555214 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:10:03.579131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:10:04.756165 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:09.756498 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:15.256427 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:20.756732 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:25.847373 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:10:25.847425 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:10:26.256394 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:31.756436 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:37.756099 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:42.756298 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:48.256739 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:53.495409 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:10:53.495460 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:10:53.757002 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:10:59.256887 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:11:02.035560 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:11:03.067132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:11:04.091126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:11:04.756630 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:11:10.256908 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:11:15.756344 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:11:21.756393 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:11:27.256687 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:11:33.256280 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:11:38.256558 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:11:43.415543 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:11:43.415596 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:11:43.756592 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:11:49.257121 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:11:54.756825 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:00.256629 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:01.610354 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:12:02.619126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:12:03.643128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:12:05.756902 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:11.256689 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:16.756965 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:22.756606 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:28.756518 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:33.847561 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:12:33.847613 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:12:34.257100 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:39.756928 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:45.756446 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:51.256813 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:12:56.756413 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:01.123035 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:13:02.139129 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:13:02.256807 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:03.163127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:13:07.756572 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:13.756385 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:18.756977 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:23.767747 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:13:23.767798 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:13:24.256382 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:30.256422 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:35.757089 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:37.411644 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:41.256677 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:47.256174 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:52.256767 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:13:57.757011 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:01.612544 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:14:02.619131 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:14:03.256865 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:03.643126 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:14:08.756654 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:13.943645 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:14:13.943695 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:14:14.257164 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:19.756549 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:25.256873 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:30.756787 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:36.256534 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:41.757092 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:47.256629 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:53.256450 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:14:59.256434 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:01.186649 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:15:02.203132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:15:03.227127 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:15:04.256631 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:04.379611 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:15:04.379659 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:15:09.756766 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:15.257048 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:20.756905 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:26.256630 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:31.756926 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:37.256899 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:43.256328 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:48.256684 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:53.271669 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:15:53.271719 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:15:53.757042 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:15:59.256956 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:01.695983 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:16:02.715132 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:16:03.739133 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:16:04.756708 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:10.256784 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:15.756550 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:21.257245 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:26.757094 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:32.756363 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:37.756697 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:42.939725 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:16:42.939776 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:16:43.257135 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:48.756738 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:54.256944 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:16:56.514814 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 144
+2023-07-14 12:16:56.515143 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 16
+2023-07-14 12:16:56.723878 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 144
+2023-07-14 12:16:56.724189 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 16
+2023-07-14 12:16:56.939791 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 144
+2023-07-14 12:16:56.940094 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 16
+2023-07-14 12:16:57.371760 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 144
+2023-07-14 12:16:57.372055 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 16
+2023-07-14 12:16:58.300393 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 239
+2023-07-14 12:16:58.304432 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 277
+2023-07-14 12:16:58.305019 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 144
+2023-07-14 12:16:58.309771 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 136
+2023-07-14 12:16:58.310132 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:16:58.690539 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:16:58.691776 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 152
+2023-07-14 12:16:58.691989 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:16:58.913924 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 152
+2023-07-14 12:16:58.913969 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 184
+2023-07-14 12:16:58.914302 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:16:58.914302 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:16:58.914869 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 192
+2023-07-14 12:16:58.915181 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:16:59.298099 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:17:01.274814 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:17:01.595154 ARP, Request who-has 10.10.1.3 tell 10.10.1.2, length 28
+2023-07-14 12:17:01.595396 ARP, Reply 10.10.1.3 is-at 98:fa:9b:44:81:be, length 46
+2023-07-14 12:17:02.299130 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:17:03.298437 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 32
+2023-07-14 12:17:03.298885 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 32
+2023-07-14 12:17:03.323128 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:17:06.146431 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:17:06.191357 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:17:14.256996 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:17:14.576853 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:17:19.291701 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:17:19.291751 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:17:19.756654 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:17:20.076686 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:17:25.256646 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:17:25.576888 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:17:30.756961 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:17:31.077229 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:17:36.256720 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:17:36.577336 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:17:40.226834 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:40.227492 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 84
+2023-07-14 12:17:40.228059 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:17:40.228267 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:40.346296 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:40.347229 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:17:40.347576 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:40.450397 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:40.451565 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:17:40.451927 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:40.594586 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:40.595793 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:17:40.596169 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:40.698359 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:40.699206 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:17:40.699468 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:40.906355 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:40.907660 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:17:40.908008 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:41.146327 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:41.147586 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:17:41.147906 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:41.898193 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:41.899320 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 136
+2023-07-14 12:17:41.899623 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:42.071306 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:17:42.071767 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:47.576849 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:17:47.756379 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:17:51.530655 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 144
+2023-07-14 12:17:51.532911 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:17:51.533174 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:52.026449 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:52.028338 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 152
+2023-07-14 12:17:52.028647 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:52.029677 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 152
+2023-07-14 12:17:52.029862 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:52.030438 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:17:52.030626 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:52.795198 ARP, Request who-has 10.10.1.3 tell 10.10.1.2, length 28
+2023-07-14 12:17:52.795369 ARP, Reply 10.10.1.3 is-at 98:fa:9b:44:81:be, length 46
+2023-07-14 12:17:52.827685 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:17:52.827733 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:17:57.173345 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:57.175165 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:17:57.175404 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:57.179336 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 192
+2023-07-14 12:17:57.179584 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:58.162585 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 144
+2023-07-14 12:17:58.164088 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:17:58.164431 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:58.658241 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:17:58.659735 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 152
+2023-07-14 12:17:58.660032 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:58.661440 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 152
+2023-07-14 12:17:58.661723 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:17:58.662078 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 192
+2023-07-14 12:17:58.662331 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:01.773844 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:18:02.066102 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:02.066851 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 136
+2023-07-14 12:18:02.067105 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:02.482314 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:02.483397 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:18:02.483734 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:02.779045 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:18:03.138347 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:18:03.139624 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 136
+2023-07-14 12:18:03.139921 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:03.200124 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:18:03.200519 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:03.618260 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:03.619850 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 136
+2023-07-14 12:18:03.620163 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:03.803144 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:18:04.042500 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:04.044236 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:04.044640 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:04.542704 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:04.544541 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:04.544890 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:04.572982 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:04.574256 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:04.603395 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:04.604552 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:04.634396 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:04.635668 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:04.664868 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:04.665957 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:04.694548 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:04.696008 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:04.725475 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:04.726510 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:04.767839 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:04.866336 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:18:04.867227 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:04.867513 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:05.666156 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:18:05.667724 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:18:05.668097 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:05.842331 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:18:05.843636 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:18:05.844022 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:06.026832 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:18:06.028631 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:06.028958 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:06.170295 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:18:06.171263 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:18:06.171631 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:06.874184 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:18:06.876555 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 136
+2023-07-14 12:18:06.876987 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:06.878049 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 152
+2023-07-14 12:18:06.878378 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:06.885751 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 928
+2023-07-14 12:18:06.886101 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:06.886315 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:18:06.886641 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:18:15.576870 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:18:15.756535 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:18:20.699164 ARP, Request who-has 10.10.1.3 tell 10.10.1.2, length 28
+2023-07-14 12:18:20.699290 ARP, Reply 10.10.1.3 is-at 98:fa:9b:44:81:be, length 46
+2023-07-14 12:18:21.076608 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:18:21.257105 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:18:26.359677 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:18:26.359728 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:18:26.577343 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:18:26.757231 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:18:32.076655 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:18:32.256559 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:18:37.576867 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:18:37.757132 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:18:43.076824 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:18:43.257180 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:18:48.091119 ARP, Request who-has 10.10.1.3 tell 10.10.1.2, length 28
+2023-07-14 12:18:48.091290 ARP, Reply 10.10.1.3 is-at 98:fa:9b:44:81:be, length 46
+2023-07-14 12:18:48.577133 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:18:48.757074 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:18:54.077382 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:18:54.256836 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:18:59.576891 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:18:59.756763 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:19:01.399227 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:19:02.427151 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:19:03.451140 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:19:04.763747 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:19:04.763797 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:19:05.076778 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:19:05.756538 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:19:11.077447 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:19:11.257114 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:19:16.251155 ARP, Request who-has 10.10.1.3 tell 10.10.1.2, length 28
+2023-07-14 12:19:16.251378 ARP, Reply 10.10.1.3 is-at 98:fa:9b:44:81:be, length 46
+2023-07-14 12:19:16.610326 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:16.613124 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 144
+2023-07-14 12:19:16.613365 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:16.615916 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 192
+2023-07-14 12:19:16.616220 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:17.834666 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 168
+2023-07-14 12:19:17.835985 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:19:17.836308 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:18.762405 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:18.763590 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 216
+2023-07-14 12:19:18.763927 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:18.776468 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 160
+2023-07-14 12:19:18.776880 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:18.777644 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 192
+2023-07-14 12:19:18.778085 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:21.922148 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:19:21.923429 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 152
+2023-07-14 12:19:21.923713 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:23.994406 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 128
+2023-07-14 12:19:23.995856 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 176
+2023-07-14 12:19:23.996084 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:30.426144 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:30.427494 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:30.427897 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:30.570119 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:30.571153 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:30.571517 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:30.866346 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:30.867268 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:30.867603 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:31.122141 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:31.123572 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:31.123966 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:31.410157 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:31.411302 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:31.411669 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:31.554165 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:31.557933 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:31.558363 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:31.866115 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:31.872499 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:31.872893 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:32.082279 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:32.088658 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:32.089032 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:32.674411 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:32.675615 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 128
+2023-07-14 12:19:32.676023 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:32.850102 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:32.851050 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 128
+2023-07-14 12:19:32.851499 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:33.026122 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:33.033251 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:33.033942 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:33.218269 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 120
+2023-07-14 12:19:33.225205 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:33.225317 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 224
+2023-07-14 12:19:33.225539 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 120
+2023-07-14 12:19:33.225539 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:33.225540 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:33.225784 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:33.225836 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 192
+2023-07-14 12:19:33.226144 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 84
+2023-07-14 12:19:36.503775 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
+2023-07-14 12:19:36.503827 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
+2023-07-14 12:19:38.756569 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:19:39.076969 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:19:44.257198 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:19:45.076785 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:19:49.756614 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:19:50.299114 ARP, Request who-has 10.10.1.3 tell 10.10.1.2, length 28
+2023-07-14 12:19:50.299267 ARP, Reply 10.10.1.3 is-at 98:fa:9b:44:81:be, length 46
+2023-07-14 12:19:50.577341 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:19:55.756843 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:19:56.077030 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:19:56.336181 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:20:01.256862 IP 10.10.1.3.4242 > 10.10.1.2.4242: UDP, length 1
+2023-07-14 12:20:01.576962 IP 10.10.1.2.4242 > 10.10.1.3.4242: UDP, length 1
+2023-07-14 12:20:01.616503 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 12:20:02.619158 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28

@@ -1309,3 +1309,69 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 rtt min/avg/max/mdev = 5.194/7.049/10.063/2.150 ms
+
+############################ carina - 07/14/23 12:19:01 EST -0500 ############################
+
+ 12:19:01 up 14:35,  2 users,  load average: 0.29, 0.12, 0.04
+
+
+reboot   system boot  5.15.0-76-generi Thu Jul 13 21:43   still running
+reboot   system boot  5.15.0-76-generi Thu Jul 13 21:36 - 21:42  (00:05)
+reboot   system boot  5.15.0-76-generi Thu Jul 13 11:51 - 21:35  (09:44)
+reboot   system boot  5.15.0-76-generi Thu Jul 13 11:34 - 11:50  (00:16)
+reboot   system boot  5.15.0-76-generi Wed Jul 12 13:09 - 11:33  (22:24)
+
+
+
+
+
+
+
+
+[29886.986438] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Down
+[29891.262762] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX/TX
+[33404.212035] device nebula1 entered promiscuous mode
+[37004.375434] device nebula1 entered promiscuous mode
+[40604.190285] device nebula1 entered promiscuous mode
+[44203.941464] device nebula1 left promiscuous mode
+[44204.002183] device nebula1 entered promiscuous mode
+[47804.586408] device nebula1 entered promiscuous mode
+[51403.518391] device nebula1 left promiscuous mode
+[51404.553174] device nebula1 entered promiscuous mode
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2                     2.0G  131M  1.7G   8% /boot
+/dev/mmcblk0p1                     1.1G  6.1M  1.1G   1% /boot/efi
+/dev/sda1                           29G  5.9M   28G   1% /data
+
+
+tail: cannot open '/var/log/vsftpd.log' for reading: No such file or directory
+
+
+
+
+
+
+enp2s0:
+192.168.1.171/24
+
+
+PING github.com (140.82.113.3) 56(84) bytes of data.
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=1 ttl=53 time=11.7 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=2 ttl=53 time=9.82 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=3 ttl=53 time=10.4 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 9.823/10.637/11.680/0.775 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=116 time=7.16 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=116 time=10.6 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=116 time=7.69 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 7.158/8.484/10.600/1.512 ms
