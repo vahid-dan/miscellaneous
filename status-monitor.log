@@ -1375,3 +1375,69 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2004ms
 rtt min/avg/max/mdev = 7.158/8.484/10.600/1.512 ms
+
+############################ carina - 07/14/23 18:19:01 EST -0500 ############################
+
+ 18:19:01 up 20:35,  2 users,  load average: 0.00, 0.01, 0.00
+
+
+reboot   system boot  5.15.0-76-generi Thu Jul 13 21:43   still running
+reboot   system boot  5.15.0-76-generi Thu Jul 13 21:36 - 21:42  (00:05)
+reboot   system boot  5.15.0-76-generi Thu Jul 13 11:51 - 21:35  (09:44)
+reboot   system boot  5.15.0-76-generi Thu Jul 13 11:34 - 11:50  (00:16)
+reboot   system boot  5.15.0-76-generi Wed Jul 12 13:09 - 11:33  (22:24)
+
+
+
+
+
+
+
+
+[53432.574594] device nebula1 entered promiscuous mode
+[54146.372441] device nebula1 left promiscuous mode
+[56144.118868] device nebula1 entered promiscuous mode
+[56155.901851] device nebula1 left promiscuous mode
+[64234.274547] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Down
+[64237.246914] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX/TX
+[70765.147011] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Down
+[70766.823424] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Up 10 Mbps Full Duplex, Flow Control: RX/TX
+[70771.482792] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Down
+[70775.803120] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX/TX
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2                     2.0G  131M  1.7G   8% /boot
+/dev/mmcblk0p1                     1.1G  6.1M  1.1G   1% /boot/efi
+/dev/sda1                           29G   11M   28G   1% /data
+
+
+tail: cannot open '/var/log/vsftpd.log' for reading: No such file or directory
+
+
+
+
+
+
+enp2s0:
+192.168.1.171/24
+
+
+PING github.com (140.82.113.3) 56(84) bytes of data.
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=1 ttl=53 time=7.69 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=2 ttl=53 time=12.4 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=3 ttl=53 time=11.8 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 7.688/10.648/12.436/2.108 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=116 time=10.1 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=116 time=9.23 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=116 time=8.27 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 8.269/9.189/10.066/0.734 ms
