@@ -17723,3 +17723,4 @@
 2023-07-14 06:19:21.653911 IP6 fe80::2076:d51c:8842:c724 > ff02::2: ICMP6, router solicitation, length 8
 2023-07-14 06:20:01.805065 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
 2023-07-14 06:20:02.811154 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-14 06:20:03.835225 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
