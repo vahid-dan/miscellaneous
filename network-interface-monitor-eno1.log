@@ -15993,3 +15993,5 @@
 2023-07-13 21:45:29.658989 ARP, Request who-has 10.10.1.2 tell 10.10.1.3, length 46
 2023-07-13 21:45:29.659024 ARP, Reply 10.10.1.2 is-at 00:01:c0:1f:d4:19, length 28
 2023-07-13 21:45:30.718403 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-13 21:45:31.739113 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
+2023-07-13 21:45:32.763141 ARP, Request who-has 8.8.8.8 tell 10.10.1.2, length 28
