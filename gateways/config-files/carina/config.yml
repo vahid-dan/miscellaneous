@@ -65,6 +65,7 @@ network_interface_monitor:
   enabled: false
   interfaces:
   - name: tnc0
-    log_file: network-interface-monitor-tnc0.log
+    log_file: tnc0.log
   - name: nebula1
-    log_file: network-interface-monitor-nebula1.log
+    log_file: nebula1.log
+  log_rotation_interval: 86400 # Frequency of log rotation in seconds
