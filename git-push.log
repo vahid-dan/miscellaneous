@@ -888,3 +888,28 @@ To github.com:FLARE-forecast/miscellaneous.git
 
 Logs:
 
+[carina-logs 1921d5a] 07/14/23 18:20:01 EST -0500: Logs
+ 12 files changed, 3819 insertions(+)
+ create mode 100644 eno1.log_2023-07-14_12:44:33.pcap
+ create mode 100644 eno1.log_2023-07-14_13:19:01.pcap
+ create mode 100644 nebula1.log_2023-07-14_12:44:33.pcap
+ create mode 100644 nebula1.log_2023-07-14_13:19:01.pcap
+ create mode 100644 network-interface-monitor-eno1.log_2023-07-14_12:33:50.pcap
+ create mode 100644 network-interface-monitor-nebula1.log_2023-07-14_12:33:50.pcap
+To github.com:FLARE-forecast/miscellaneous.git
+   223e1cd..1921d5a  carina-logs -> carina-logs
+
+Completed at 07/14/23 18:20:05 EST
+
+
+############################ carina - 07/14/23 18:20:06 EST -0500 ############################
+
+Data:
+
+[datalogger-mock-data 22a9cdc] 07/14/23 18:20:06 EST -0500: Git Backup
+ 1 file changed, 1 insertion(+)
+To github.com:FLARE-forecast/miscellaneous.git
+   44d7b28..22a9cdc  datalogger-mock-data -> datalogger-mock-data
+
+Logs:
+
