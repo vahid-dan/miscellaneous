@@ -1008,3 +1008,25 @@ To github.com:FLARE-forecast/miscellaneous.git
 
 Logs:
 
+[carina-logs e046aa5] 07/15/23 10:37:57 EST -0500: Logs
+ 7 files changed, 555 insertions(+)
+ create mode 100644 eno1.log_2023-07-15_10:35:58.pcap
+ create mode 100644 nebula1.log_2023-07-15_10:36:59.pcap
+To github.com:FLARE-forecast/miscellaneous.git
+   72a88df..e046aa5  carina-logs -> carina-logs
+
+Completed at 07/15/23 10:37:59 EST
+
+
+############################ carina - 07/15/23 10:38:00 EST -0500 ############################
+
+Data:
+
+On branch datalogger-mock-data
+Your branch is up to date with 'origin/datalogger-mock-data'.
+
+nothing to commit, working tree clean
+Everything up-to-date
+
+Logs:
+
