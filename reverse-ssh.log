@@ -17110,3 +17110,269 @@ c"
 2023/07/20 06:17:42 autossh[1403]: check on child 999173
 2023/07/20 06:17:42 autossh[1403]: clear alarm timer (0 secs left)
 2023/07/20 06:17:42 autossh[1403]: set alarm for 600 secs
+2023/07/20 06:27:42 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 06:27:42 autossh[1403]: connection ok
+2023/07/20 06:27:42 autossh[1403]: check on child 999173
+2023/07/20 06:27:42 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 06:27:42 autossh[1403]: set alarm for 600 secs
+2023/07/20 06:37:42 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 06:37:42 autossh[1403]: not what I sent: "carina autossh 1403 29329239 
+" : ""
+2023/07/20 06:37:42 autossh[1403]: connection ok
+2023/07/20 06:37:42 autossh[1403]: check on child 999173
+2023/07/20 06:37:42 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 06:37:42 autossh[1403]: set alarm for 600 secs
+2023/07/20 06:47:42 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 06:47:42 autossh[1403]: not what I sent: "carina autossh 1403 1881036456 
+" : ""
+2023/07/20 06:47:42 autossh[1403]: connection ok
+2023/07/20 06:47:42 autossh[1403]: check on child 999173
+2023/07/20 06:47:42 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 06:47:42 autossh[1403]: set alarm for 600 secs
+2023/07/20 06:57:42 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 06:57:42 autossh[1403]: not what I sent: "carina autossh 1403 1894541795 
+" : ""
+2023/07/20 06:57:42 autossh[1403]: connection ok
+2023/07/20 06:57:42 autossh[1403]: check on child 999173
+2023/07/20 06:57:42 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 06:57:42 autossh[1403]: set alarm for 600 secs
+2023/07/20 07:07:42 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 07:07:42 autossh[1403]: not what I sent: "carina autossh 1403 1433244509 
+" : ""
+2023/07/20 07:07:42 autossh[1403]: connection ok
+2023/07/20 07:07:42 autossh[1403]: check on child 999173
+2023/07/20 07:07:42 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 07:07:42 autossh[1403]: set alarm for 600 secs
+2023/07/20 07:17:42 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 07:17:42 autossh[1403]: not what I sent: "carina autossh 1403 124655212 
+" : ""
+2023/07/20 07:17:42 autossh[1403]: connection ok
+2023/07/20 07:17:42 autossh[1403]: check on child 999173
+2023/07/20 07:17:42 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 07:17:42 autossh[1403]: set alarm for 600 secs
+2023/07/20 07:27:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 07:27:43 autossh[1403]: not what I sent: "carina autossh 1403 1699665315 
+" : ""
+2023/07/20 07:27:43 autossh[1403]: connection ok
+2023/07/20 07:27:43 autossh[1403]: check on child 999173
+2023/07/20 07:27:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 07:27:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 07:37:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 07:37:43 autossh[1403]: not what I sent: "carina autossh 1403 1552460895 
+" : ""
+2023/07/20 07:37:43 autossh[1403]: connection ok
+2023/07/20 07:37:43 autossh[1403]: check on child 999173
+2023/07/20 07:37:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 07:37:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 07:47:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 07:47:43 autossh[1403]: not what I sent: "carina autossh 1403 2062876725 
+" : ""
+2023/07/20 07:47:43 autossh[1403]: connection ok
+2023/07/20 07:47:43 autossh[1403]: check on child 999173
+2023/07/20 07:47:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 07:47:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 07:57:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 07:57:43 autossh[1403]: not what I sent: "carina autossh 1403 1771562313 
+" : ""
+2023/07/20 07:57:43 autossh[1403]: connection ok
+2023/07/20 07:57:43 autossh[1403]: check on child 999173
+2023/07/20 07:57:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 07:57:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 08:07:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 08:07:43 autossh[1403]: not what I sent: "carina autossh 1403 1782434765 
+" : ""
+2023/07/20 08:07:43 autossh[1403]: connection ok
+2023/07/20 08:07:43 autossh[1403]: check on child 999173
+2023/07/20 08:07:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 08:07:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 08:17:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 08:17:43 autossh[1403]: not what I sent: "carina autossh 1403 288326321 
+" : ""
+2023/07/20 08:17:43 autossh[1403]: connection ok
+2023/07/20 08:17:43 autossh[1403]: check on child 999173
+2023/07/20 08:17:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 08:17:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 08:27:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 08:27:43 autossh[1403]: not what I sent: "carina autossh 1403 854398754 
+" : ""
+2023/07/20 08:27:43 autossh[1403]: not what I sent: "carina autossh 1403 854398754 
+" : ""
+2023/07/20 08:27:43 autossh[1403]: tried connection 3 times and failed
+2023/07/20 08:27:43 autossh[1403]: port down, restarting ssh
+2023/07/20 08:27:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 08:27:43 autossh[1403]: checking for grace period, tries = 0
+2023/07/20 08:27:43 autossh[1403]: starting ssh (count 577)
+2023/07/20 08:27:43 autossh[1403]: ssh child pid is 1067218
+2023/07/20 08:27:43 autossh[1403]: check on child 1067218
+2023/07/20 08:27:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 08:27:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 08:27:43 autossh[1067218]: child of 1403 execing /usr/bin/ssh
+2023/07/20 08:37:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 08:37:43 autossh[1403]: not what I sent: "carina autossh 1403 173082774 
+" : ""
+2023/07/20 08:37:43 autossh[1403]: not what I sent: "carina autossh 1403 173082774 
+" : ""
+2023/07/20 08:37:43 autossh[1403]: tried connection 3 times and failed
+2023/07/20 08:37:43 autossh[1403]: port down, restarting ssh
+2023/07/20 08:37:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 08:37:43 autossh[1403]: checking for grace period, tries = 0
+2023/07/20 08:37:43 autossh[1403]: starting ssh (count 578)
+2023/07/20 08:37:43 autossh[1403]: ssh child pid is 1068639
+2023/07/20 08:37:43 autossh[1403]: check on child 1068639
+2023/07/20 08:37:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 08:37:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 08:37:43 autossh[1068639]: child of 1403 execing /usr/bin/ssh
+2023/07/20 08:47:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 08:47:43 autossh[1403]: not what I sent: "carina autossh 1403 1641786078 
+" : ""
+2023/07/20 08:47:43 autossh[1403]: connection ok
+2023/07/20 08:47:43 autossh[1403]: check on child 1068639
+2023/07/20 08:47:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 08:47:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 08:57:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 08:57:43 autossh[1403]: not what I sent: "carina autossh 1403 328224683 
+" : ""
+2023/07/20 08:57:43 autossh[1403]: connection ok
+2023/07/20 08:57:43 autossh[1403]: check on child 1068639
+2023/07/20 08:57:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 08:57:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 09:07:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 09:07:43 autossh[1403]: not what I sent: "carina autossh 1403 642139264 
+" : ""
+2023/07/20 09:07:43 autossh[1403]: connection ok
+2023/07/20 09:07:43 autossh[1403]: check on child 1068639
+2023/07/20 09:07:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 09:07:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 09:17:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 09:17:43 autossh[1403]: not what I sent: "carina autossh 1403 189226821 
+" : ""
+2023/07/20 09:17:43 autossh[1403]: connection ok
+2023/07/20 09:17:43 autossh[1403]: check on child 1068639
+2023/07/20 09:17:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 09:17:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 09:27:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 09:27:43 autossh[1403]: not what I sent: "carina autossh 1403 321018075 
+" : ""
+2023/07/20 09:27:43 autossh[1403]: connection ok
+2023/07/20 09:27:43 autossh[1403]: check on child 1068639
+2023/07/20 09:27:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 09:27:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 09:37:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 09:37:43 autossh[1403]: not what I sent: "carina autossh 1403 1890140818 
+" : ""
+2023/07/20 09:37:43 autossh[1403]: connection ok
+2023/07/20 09:37:43 autossh[1403]: check on child 1068639
+2023/07/20 09:37:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 09:37:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 09:47:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 09:47:43 autossh[1403]: not what I sent: "carina autossh 1403 175485583 
+" : ""
+2023/07/20 09:47:43 autossh[1403]: connection ok
+2023/07/20 09:47:43 autossh[1403]: check on child 1068639
+2023/07/20 09:47:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 09:47:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 09:57:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 09:57:43 autossh[1403]: not what I sent: "carina autossh 1403 1585311637 
+" : ""
+2023/07/20 09:57:43 autossh[1403]: connection ok
+2023/07/20 09:57:43 autossh[1403]: check on child 1068639
+2023/07/20 09:57:43 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 09:57:43 autossh[1403]: set alarm for 600 secs
+2023/07/20 10:07:43 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 10:07:43 autossh[1403]: not what I sent: "carina autossh 1403 1775306881 
+" : ""
+2023/07/20 10:07:44 autossh[1403]: connection ok
+2023/07/20 10:07:44 autossh[1403]: check on child 1068639
+2023/07/20 10:07:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 10:07:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 10:17:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 10:17:44 autossh[1403]: not what I sent: "carina autossh 1403 2058388370 
+" : ""
+2023/07/20 10:17:44 autossh[1403]: connection ok
+2023/07/20 10:17:44 autossh[1403]: check on child 1068639
+2023/07/20 10:17:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 10:17:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 10:27:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 10:27:44 autossh[1403]: not what I sent: "carina autossh 1403 1393714733 
+" : ""
+2023/07/20 10:27:44 autossh[1403]: connection ok
+2023/07/20 10:27:44 autossh[1403]: check on child 1068639
+2023/07/20 10:27:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 10:27:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 10:37:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 10:37:44 autossh[1403]: not what I sent: "carina autossh 1403 654134961 
+" : ""
+2023/07/20 10:37:44 autossh[1403]: connection ok
+2023/07/20 10:37:44 autossh[1403]: check on child 1068639
+2023/07/20 10:37:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 10:37:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 10:47:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 10:47:44 autossh[1403]: not what I sent: "carina autossh 1403 2041054847 
+" : ""
+2023/07/20 10:47:44 autossh[1403]: connection ok
+2023/07/20 10:47:44 autossh[1403]: check on child 1068639
+2023/07/20 10:47:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 10:47:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 10:57:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 10:57:44 autossh[1403]: not what I sent: "carina autossh 1403 690592730 
+" : ""
+2023/07/20 10:57:44 autossh[1403]: connection ok
+2023/07/20 10:57:44 autossh[1403]: check on child 1068639
+2023/07/20 10:57:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 10:57:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 11:07:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 11:07:44 autossh[1403]: not what I sent: "carina autossh 1403 1092490178 
+" : ""
+2023/07/20 11:07:44 autossh[1403]: connection ok
+2023/07/20 11:07:44 autossh[1403]: check on child 1068639
+2023/07/20 11:07:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 11:07:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 11:17:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 11:17:44 autossh[1403]: not what I sent: "carina autossh 1403 2055275948 
+" : ""
+2023/07/20 11:17:44 autossh[1403]: connection ok
+2023/07/20 11:17:44 autossh[1403]: check on child 1068639
+2023/07/20 11:17:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 11:17:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 11:27:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 11:27:44 autossh[1403]: not what I sent: "carina autossh 1403 1853582703 
+" : ""
+2023/07/20 11:27:44 autossh[1403]: connection ok
+2023/07/20 11:27:44 autossh[1403]: check on child 1068639
+2023/07/20 11:27:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 11:27:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 11:37:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 11:37:44 autossh[1403]: not what I sent: "carina autossh 1403 932316692 
+" : ""
+2023/07/20 11:37:44 autossh[1403]: connection ok
+2023/07/20 11:37:44 autossh[1403]: check on child 1068639
+2023/07/20 11:37:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 11:37:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 11:47:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 11:47:44 autossh[1403]: not what I sent: "carina autossh 1403 2084605187 
+" : ""
+2023/07/20 11:47:44 autossh[1403]: connection ok
+2023/07/20 11:47:44 autossh[1403]: check on child 1068639
+2023/07/20 11:47:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 11:47:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 11:57:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 11:57:44 autossh[1403]: not what I sent: "carina autossh 1403 1587135512 
+" : ""
+2023/07/20 11:57:44 autossh[1403]: connection ok
+2023/07/20 11:57:44 autossh[1403]: check on child 1068639
+2023/07/20 11:57:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 11:57:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 12:07:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 12:07:44 autossh[1403]: not what I sent: "carina autossh 1403 679374839 
+" : ""
+2023/07/20 12:07:44 autossh[1403]: connection ok
+2023/07/20 12:07:44 autossh[1403]: check on child 1068639
+2023/07/20 12:07:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 12:07:44 autossh[1403]: set alarm for 600 secs
+2023/07/20 12:17:44 autossh[1403]: received SIGALRM (end-of-life 0)
+2023/07/20 12:17:44 autossh[1403]: not what I sent: "carina autossh 1403 1370366049 
+" : ""
+2023/07/20 12:17:44 autossh[1403]: connection ok
+2023/07/20 12:17:44 autossh[1403]: check on child 1068639
+2023/07/20 12:17:44 autossh[1403]: clear alarm timer (0 secs left)
+2023/07/20 12:17:44 autossh[1403]: set alarm for 600 secs
