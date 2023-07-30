@@ -13,4 +13,4 @@ config_file=/home/ubuntu/miscellaneous/gateways/config-files/config.yml
 health_checks_io_ping_url=$(yq e '.health_checks_io.ping_url' $config_file)
 
 # Body of the script
-curl -fsS -m 10 --retry 5 -o /dev/null $health_checks_io_ping_url
+curl -fsS --max-time 60 --retry 5 -o /dev/null $health_checks_io_ping_url
