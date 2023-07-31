@@ -27,17 +27,12 @@ echo -e "Data:\n" 2>&1 | tee -a $git_push_log_file_path
 cd $general_data_dir/$general_git_data_branch
 git add . 2>&1 | tee -a $git_push_log_file_path
 git commit -m "$timestamp: Git Backup" 2>&1 | tee -a $git_push_log_file_path
-#git pull --no-edit --force 2>&1 | tee -a $git_push_log_file_path
-git push 2>&1 | tee -a $git_push_log_file_path
+for commit in $(git log --reverse --format="%H" --branches --not --remotes); do git push --force origin $commit:refs/heads/$(git rev-parse --abbrev-ref HEAD 2>&1 | tee -a $git_push_log_file_path); done
 
 echo -e "\nLogs:\n" 2>&1 | tee -a $git_push_log_file_path
 cd $general_data_dir/$general_git_logs_branch
 git add . 2>&1 | tee -a $git_push_log_file_path
 git commit -m "$timestamp: Logs" 2>&1 | tee -a $git_push_log_file_path
-#git pull --no-edit --force 2>&1 | tee -a $git_push_log_file_path
-git push 2>&1 | tee -a $git_push_log_file_path
-#git add . 2>&1 | tee -a $git_push_log_file_path
-#git commit -m "$timestamp: Logs" 2>&1 | tee -a $git_push_log_file_path
-#git push 2>&1 | tee -a $git_push_log_file_path
+for commit in $(git log --reverse --format="%H" --branches --not --remotes); do git push --force origin $commit:refs/heads/$(git rev-parse --abbrev-ref HEAD 2>&1 | tee -a $git_push_log_file_path); done
 
 echo -e "\nCompleted at $(date +"%D %T %Z")\n" 2>&1 | tee -a $git_push_log_file_path
