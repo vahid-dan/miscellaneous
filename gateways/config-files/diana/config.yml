@@ -26,11 +26,6 @@ status_monitor:
   enabled: true
   log_file: status-monitor.log
 
-ping_monitor:
-  enabled: true
-  log_file_full: ping-monitor-full.log
-  log_file_stat: ping-monitor-stat.log
-
 git_push:
   enabled: true
   log_file: git-push.log
@@ -41,12 +36,12 @@ git_garbage_collector:
 
 health_checks_io:
   enabled: true
-  ping_url: https://hc-ping.com/bf7a9370-62dc-4460-92cd-3dd8c73653b6
+  ping_url: https://hc-ping.com/8c074ee7-de97-4c50-9dfc-987386c0d886
 
 reverse_ssh:
   enabled: true
   log_file: reverse-ssh.log
-  local_port: 60011
+  local_port: 60004
   base_port: 61000
   remote_port: 22
   localhost: localhost
@@ -68,3 +63,8 @@ network_interface_monitor:
       log_file: network-interface-monitor-tnc0.log
     - name: nebula1
       log_file: network-interface-monitor-nebula1.log
+
+ping_monitor:
+  enabled: false
+  log_file_full: ping-monitor-full.log
+  log_file_stat: ping-monitor-stat.log
