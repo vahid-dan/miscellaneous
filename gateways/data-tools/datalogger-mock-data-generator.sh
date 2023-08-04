@@ -25,13 +25,13 @@ timestamp=$(date +"%D %T %Z %z")
 
 # Body of the script
 
-echo -e "\n############################ $general_gateway_name - $timestamp ############################\n" 2>&1 | tee -a "$datalogger_mock_data_generator_log_file_path"
-
 # Check if the script is enabled
 if [ "$datalogger_mock_data_generator_enabled" != "true" ]; then
-  echo "The script is not enabled. Exiting ..." 2>&1 | tee -a $datalogger_mock_data_generator_log_file_path
+  echo "The script is not enabled. Exiting ..."
   exit 0
 fi
+
+echo -e "\n############################ $general_gateway_name - $timestamp ############################\n" 2>&1 | tee -a "$datalogger_mock_data_generator_log_file_path"
 
 # Function to generate random values
 generate_random_value() {
