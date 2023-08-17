@@ -67,7 +67,7 @@ datalogger_mock_data_generator:
   interval: 10 # Frequency of generating data in minutes
 
 network_interface_monitor:
-  enabled: true
+  enabled: false
   log_file: network-interface-monitor.log
   log_rotation_interval: 86400 # Frequency of log rotation in seconds
   interfaces:
