@@ -1,26 +1,28 @@
 #!/bin/bash
 
-# Datalogger Mock Data Generator Script
+# Datalogger Mock Data Generator Module
 # Executd from the Gateways
 # Generates random data mocking the output of dataloggers for test and development purposes
 # Usage: Run periodically, every 10 minutes, for instance.
 
+########## HEADER ##########
+
 module_name=datalogger_mock_data_generator
 
-# Load configurations
+# Load utility functions and configurations for gateways
 source /home/ubuntu/miscellaneous/gateways/base/utils.sh
 
 # Check if the module is enabled
 check_if_enabled "$module_name"
 
-# Body of the script
+# Redirect all output of this module to log_to_file function
+exec > >(while IFS= read -r line; do log_to_file "$module_name" "$line"; echo "$line"; done) 2>&1
 
-timestamp=$(date +"%D %T %Z %z")
+echo "########## START ##########"
 
-datalogger_mock_data_generator_log_file_path=$general_data_dir/$general_git_logs_branch/$datalogger_mock_data_generator_log_file
+########## BODY ##########
+
 datalogger_mock_data_generator_data_file_path=$general_data_dir/$general_git_data_branch/$datalogger_mock_data_generator_data_file
-
-log_to_file "$module_name" "############################ $general_gateway_name - $timestamp ############################"
 
 # Function to generate random values
 generate_random_value() {
@@ -103,3 +105,12 @@ for ((i=1; i<=missed_intervals; i++)); do
   # Increment the record number
   record=$((record + 1))
 done
+
+########## FOOTER ##########
+
+echo "##########  END  ##########"
+
+# Close stdout and stderr
+exec >&- 2>&-
+# Wait for all background processes to complete
+wait
