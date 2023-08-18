@@ -1,6 +1,6 @@
 general:
   gateway_name: bita
-  gateway_location: datalogger-mock
+  gateway_location: datalogger-mock-2
   gateway_power_mode: ac # "ac" or "battery"
   gateway_maintenance_mode: true # true or false
   data_dir: /data
