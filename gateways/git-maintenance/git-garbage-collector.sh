@@ -30,7 +30,7 @@ for dir in "${dir_array[@]}"; do
     df -h | grep $general_data_dir
 
     cd $dir || continue
-    echo -e "Working on: $(pwd)"
+    echo -e "Processing: $(pwd)"
     git gc --prune || continue
 
     echo -e "After:"
