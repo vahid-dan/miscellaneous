@@ -13,7 +13,7 @@
 
 # Pushes the new additions to the remote repo and runs Git garbage collection afterwards
 @reboot sleep 120 && /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh; /home/ubuntu/miscellaneous/gateways/git-maintenance/git-garbage-collector.sh; /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh
-20 * * * * /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh; /home/ubuntu/miscellaneous/gateways/git-maintenance/git-garbage-collector.sh; /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh
+30 00,08,14,20 * * * /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh; /home/ubuntu/miscellaneous/gateways/git-maintenance/git-garbage-collector.sh; /home/ubuntu/miscellaneous/gateways/git-maintenance/git-push.sh
 
 # Sends awake ping signals to healthchecks.io
 * * * * * /home/ubuntu/miscellaneous/gateways/system-monitors/health-checks-io.sh
