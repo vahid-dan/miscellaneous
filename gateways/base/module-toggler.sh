@@ -97,7 +97,6 @@ done
 
 # After toggling the status, display and log the final status
 echo
-echo "Final status:"
 display_modules_status 2>&1 | tee $general_data_dir/$general_git_logs_branch/$general_module_toggler_log_file
 echo
 
