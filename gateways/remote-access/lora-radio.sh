@@ -36,7 +36,6 @@ echo "########## START ##########"
 
 # Bring lora interface down and up
 sudo /usr/bin/killall tncattach || true
-
 sleep 5
 
 case $lora_radio_mode in
