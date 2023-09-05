@@ -40,7 +40,7 @@ sudo chown -R ftpuser:ftpuser $general_data_dir/$general_datalogger_data_dir
 # Clone the latest commit from the data branch if the directory does not exist
 if [ ! -d "$general_data_dir_path" ]; then
   echo "Cloning data branch"
-  git clone --depth 1 --branch $general_git_data_branch $general_git_repo $general_data_dir_path
+  git clone --depth 1 --single-branch --branch $general_git_data_branch $general_git_repo $general_data_dir_path
 else
   echo "Data directory already exists. Pulling the latest version ..."
   cd $general_data_dir_path
@@ -52,7 +52,7 @@ sudo chmod -R g+w $general_data_dir/$general_git_data_branch
 # Clone the latest commit from the logs branch if the directory does not exist
 if [ ! -d "$general_logs_dir_path" ]; then
   echo "Cloning logs branch"
-  git clone --depth 1 --branch $general_git_logs_branch $general_git_repo $general_logs_dir_path
+  git clone --depth 1 --single-branch --branch $general_git_logs_branch $general_git_repo $general_logs_dir_path
 else
   echo "Logs directory already exists. Pulling the latest version ..."
   cd $general_logs_dir_path
@@ -62,7 +62,7 @@ fi
 # Clone the latest commit from the startup branch if the directory does not exist
 if [ ! -d "$general_apps_dir/$startup_notifier_local_repo_dir/$general_gateway_name" ]; then
   echo "Cloning startup notifier branch"
-  git clone --depth 1 --branch $startup_notifier_git_branch $startup_notifier_git_repo $general_apps_dir/$startup_notifier_local_repo_dir/$general_gateway_name
+  git clone --depth 1 --single-branch --branch $startup_notifier_git_branch $startup_notifier_git_repo $general_apps_dir/$startup_notifier_local_repo_dir/$general_gateway_name
 else
   echo "Startup notifier directory already exists. Pulling the latest version ..."
   cd $general_apps_dir/$startup_notifier_local_repo_dir/$general_gateway_name
