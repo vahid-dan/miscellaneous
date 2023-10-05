@@ -77,7 +77,7 @@ display_modules_status
 echo
 
 # Get user selection
-echo -e "Choose one or more modules separated by space (e.g., 1 3 6) to toggle their status (enable/disable), or type 'q' to exit without making any changes:"
+echo -e "Choose one or more modules separated by spaces (e.g., 1 3 6) to toggle their status (enable/disable). Type 'q' to exit without making any changes. A reboot may be required for the changes to take effect immediately."
 read -a selections
 
 for selected in "${selections[@]}"; do
