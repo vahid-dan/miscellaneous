@@ -32,7 +32,7 @@ for dir in "${dir_array[@]}"; do
     git add .
     git commit -m "$timestamp" || continue
     for commit in $(git log --reverse --format="%H" --branches --not --remotes); do 
-        git push --force origin $commit:refs/heads/$(git rev-parse --abbrev-ref HEAD) || continue
+        git push --no-verify --force origin $commit:refs/heads/$(git rev-parse --abbrev-ref HEAD) || continue
     done
 done
 
